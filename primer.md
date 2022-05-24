@@ -16,7 +16,7 @@
 
 - 31 Punkte Pointbuy (Start 8, Max 18) [chicken-dinner.com](chicken-dinner.com)
 - 1 Bonus-Feat von Liste
-  - Alert, PHB
+	- Alert, PHB
 	- Artificer Initiate, TCE
 	- Bountiful Luck, XGE
 	- Charger, PHB
