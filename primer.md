@@ -1,6 +1,4 @@
-## Recap 8 – 19.05.2022
-
-# To Infinity -- Primer
+# To Infinity – Primer
 
 ## Hintergrund
 
@@ -16,50 +14,50 @@
 
 - 31 Punkte Pointbuy (Start 8, Max 18) [chicken-dinner.com](chicken-dinner.com)
 - 1 Bonus-Feat von Liste
-	- Alert, PHB
-	- Artificer Initiate, TCE
-	- Bountiful Luck, XGE
-	- Charger, PHB
-	- Crossbow Expert, PHB
-	- Defensive Duelist, PHB
-	- Drow High Magic, XGE
-	- Dual Wielder, PHB
-	- Dungeon Delver, PHB
-	- Eldritch Adept, TCE
-	- Elemental Adept, PHB
-	- Fighting Initiate, TCE
-	- Gift of the Chromatic Dragon, FTD
-	- Gift of the Metallic Dragon, FTD
-	- Grappler, PHB
-	- Great Weapon Master, PHB
-	- Healer, PHB
-	- Hierophant, MoMi
-	- Inspiring Leader, PHB
-	- Integrated Arcana, MoMi
-	- Lucky, PHB
-	- Mage Slayer, PHB
-	- Magic Initiate, PHB
-	- Martial Adept, PHB
-	- Medium Armor Master, PHB
-	- Metamagic Adept, TCE
-	- Mobile, PHB
-	- Mounted Combatant, PHB
-	- Poisoner, TCE
-	- Polearm Master, PHB
-	- Prodigy, XGE
-	- Ritual Caster, PHB
-	- Savage Attacker, PHB
-	- Sentinel, PHB
-	- Sharpshooter, PHB
-	- Shield Master, PHB
-	- Skilled, PHB
-	- Skulker, PHB
-	- Spell Sniper, PHB
-	- Spirit Rider, MoMi
-	- Svirfneblin Magic, MTF
-	- Tough, PHB
-	- War Caster, PHB
-	- Wood Elf Magic, XGE
+  - Alert, PHB
+  - Artificer Initiate, TCE
+  - Bountiful Luck, XGE
+  - Charger, PHB
+  - Crossbow Expert, PHB
+  - Defensive Duelist, PHB
+  - Drow High Magic, XGE
+  - Dual Wielder, PHB
+  - Dungeon Delver, PHB
+  - Eldritch Adept, TCE
+  - Elemental Adept, PHB
+  - Fighting Initiate, TCE
+  - Gift of the Chromatic Dragon, FTD
+  - Gift of the Metallic Dragon, FTD
+  - Grappler, PHB
+  - Great Weapon Master, PHB
+  - Healer, PHB
+  - Hierophant, MoMi
+  - Inspiring Leader, PHB
+  - Integrated Arcana, MoMi
+  - Lucky, PHB
+  - Mage Slayer, PHB
+  - Magic Initiate, PHB
+  - Martial Adept, PHB
+  - Medium Armor Master, PHB
+  - Metamagic Adept, TCE
+  - Mobile, PHB
+  - Mounted Combatant, PHB
+  - Poisoner, TCE
+  - Polearm Master, PHB
+  - Prodigy, XGE
+  - Ritual Caster, PHB
+  - Savage Attacker, PHB
+  - Sentinel, PHB
+  - Sharpshooter, PHB
+  - Shield Master, PHB
+  - Skilled, PHB
+  - Skulker, PHB
+  - Spell Sniper, PHB
+  - Spirit Rider, MoMi
+  - Svirfneblin Magic, MTF
+  - Tough, PHB
+  - War Caster, PHB
+  - Wood Elf Magic, XGE
 - Bücher
   - PHB
   - TCE
