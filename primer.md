@@ -88,6 +88,19 @@
 
 TODO
 
+## Kampagnen-Leitlinien
+
+- Der Weltenraum ist seltsam, abstrakt, unerwartet und endlos (leer).
+- Keine Mannschaft, die einen _schwarzen Nebel_ betritt, wird wieder gesehen.
+- Unaussprechliche Monster lauern in den noch unerforschten Teilen des Raumes.
+- Wahnsinn und Mut unterscheidet die erfolgreichsten von den lebenden Mannschaften.
+- Ihr seid Teil der Mannschaft, die Mannschaft hält zusammen.
+- Die Mannschaft sucht Abenteuer, Freiheit und Reichtum.
+- Der Frieden zwischen Fraktionen im Raum ist hart umkämpft und nie von dauer.
+- Die _Marine der Königin_ expandiert ununterbrochen und ohne Gande.
+- Es ist ein Münzwurf, ob ein Schiff der _Generation der Freiheit_ freundlich vorbeifliegt oder zum entern übergeht.
+- In der Förderation zählt nur das Geld.
+
 ## Gazetteer
 
 ### Abellscher Raum
@@ -117,19 +130,6 @@ Körper sind alle Siedlungen im Raum, die entweder stationär sind oder sich auf
 
 Hochentzündliche Materie, die in hoher Konzentration den Rohstoff für sich bildende Welten gibt.  
 All Welten sind umgeben von einer Sphäre, die wiedrum vom restlichen _Phlogiston_ der Weltenbildung umgeben ist.
-
-## Kampagnen-Leitlinien
-
-- Der Weltenraum ist seltsam, abstrakt, unerwartet und endlos (leer).
-- Keine Mannschaft, die einen _schwarzen Nebel_ betritt, wird wieder gesehen.
-- Unaussprechliche Monster lauern in den noch unerforschten Teilen des Raumes.
-- Wahnsinn und Mut unterscheidet die erfolgreichsten von den lebenden Mannschaften.
-- Ihr seid Teil der Mannschaft, die Mannschaft hält zusammen.
-- Die Mannschaft sucht Abenteuer, Freiheit und Reichtum.
-- Der Frieden zwischen Fraktionen im Raum ist hart umkämpft und nie von dauer.
-- Die _Marine der Königin_ expandiert ununterbrochen und ohne Gande.
-- Es ist ein Münzwurf, ob ein Schiff der _Generation der Freiheit_ freundlich vorbeifliegt oder zum entern übergeht.
-- In der Förderation zählt nur das Geld.
 
 ### Fraktionen
 
