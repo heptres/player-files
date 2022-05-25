@@ -59,7 +59,7 @@
   - Tough, PHB
   - War Caster, PHB
   - Wood Elf Magic, XGE
-- Bücher
+- [Bücher](5e.tools)
   - PHB
   - TCE
   - VGtM
@@ -71,6 +71,7 @@
   - VRG
   - MoMi
   - ExEb
+  - [UA Spelljammer](https://media.wizards.com/2021/dnd/downloads/UA2021_TravelersoftheMultiverse.pdf)
 - 100pp + Starting Gear + 1 Gegenstand von Liste
   - Heiltrankbundle (2 Standard, 1 Better)
   - Grad 1 Schriftrollengegenstand 3d4 Ladungen
@@ -87,7 +88,33 @@
 
 ### Jobs
 
-TODO
+#### Helmsmann
+
+Ein Helmsmann stimmt sich auf den Spelljammer ein (1 attunement slot). Dabei nutzt er seine Zauber als Antrieb für das Schiff. Dabei treibt ein Zauber den Spelljammer für eine Stunde an, bei ((1 + Zaubergrad)/2)-facher Basisgeschwindigkeit des Spelljammers.
+
+Der Spelljammer ist eine Erweiterung des Helmsmann, dieser spührt dabei den Schaden am Schiff. Pro 10 Schaden am Schiff nimmt der Helmsmann 1 psychischen Schaden. Diese Verbindung geht nur vom Spelljammer auf den Helmsmann aus, nicht umgekehrt. Die meisten Helmsmänner haben ihren Sitz im Rumpf des Spelljammer und sind somit auf einen **Steuermann** angewiesen, welcher den Helmsmann beim manövrieren hilft.
+
+#### Steuermann
+
+Der Steuermann hilft dem Helmsmann beim navigieren, da der Helmsmann meist im Schutz des Spelljammer sitzt. Er meist der erste Offizier auf dem Deck und leitet die Crew.
+
+#### Kanonier
+
+Bedient und wartet die Waffen des Spelljammer.
+
+#### Zimmerer
+
+Wartet den Spelljammer.
+
+#### Deckhand
+
+Arbeitet allen Mitglieder der Crew zu oder unterstützt diese. Kann kurzfristig alle Arbeiten am Schiff übernehmen.
+
+#### Koch
+
+Bereitet das Essen zu, Rationiert Nahrung und Wasser. Verwaltet die Ladung und Ausrüstung.
+
+
 
 ## Kampagnen-Leitlinien
 
@@ -108,7 +135,7 @@ TODO
 
 Euer Nebula. Es gibt ebensoviele bekannte wie unbekannte Körper im _abellschen Raum_. Alle besiedelten Körper haben aber eins gemeinsam, sie haben keine Sphäre, die sie vom Rest des Raumes trennt. Es gibt also regen Handel, Krieg und anderen Austausch untereinander. Besonders oft kommt es zum Konflikt zwischen der _Marine ihrer Königin_, der _Förderation_ und den _Generation der Freiheit_.
 
-Dazu kommen noch die Flotten der _Gedankenfresser_, die regelmäßig Schiffe und Körper überfallen, um sich an den Einwohner zu nähren oder neue Sklaven für ihre Heimatwelten zu fangen.  
+Dazu kommen noch die Flotten der _Gedankenfresser_, die regelmäßig Schiffe und Körper überfallen, um sich an den Einwohner zu nähren oder neue Sklaven für ihre Heimatwelten zu fangen.
 Auf ahnunglose Schiffe wartende lebende Asteroiden, alles konsumierende Androiden sind nur einige Gefahren, die auf euch lauern.
 
 ### Der weiße Schweif
@@ -129,7 +156,7 @@ Körper sind alle Siedlungen im Raum, die entweder stationär sind oder sich auf
 
 #### Phlogiston
 
-Hochentzündliche Materie, die in hoher Konzentration den Rohstoff für sich bildende Welten gibt.  
+Hochentzündliche Materie, die in hoher Konzentration den Rohstoff für sich bildende Welten gibt.
 All Welten sind umgeben von einer Sphäre, die wiedrum vom restlichen _Phlogiston_ der Weltenbildung umgeben ist.
 
 ### Fraktionen
