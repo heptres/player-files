@@ -13,6 +13,7 @@
 ## Charktererstellung
 
 - 31 Punkte Pointbuy (Start 8, Max 18) [chicken-dinner.com](chicken-dinner.com)
+- Start-Level 4
 - 1 Bonus-Feat von Liste
   - Alert, PHB
   - Artificer Initiate, TCE
