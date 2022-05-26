@@ -71,7 +71,7 @@
   - VRG
   - MoMi
   - ExEb
-  - [UA Spelljammer](https://media.wizards.com/2021/dnd/downloads/UA2021_TravelersoftheMultiverse.pdf)
+  - [UA Spelljammer](UA2021_TravelersoftheMultiverse.pdf)
 - 100pp + Starting Gear + 1 Gegenstand von Liste
   - Heiltrankbundle (2 Standard, 1 Better)
   - Grad 1 Schriftrollengegenstand 3d4 Ladungen
