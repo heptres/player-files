@@ -63,6 +63,7 @@
 - [Bücher](5e.tools)
   - PHB
   - TCE
+  - XGE
   - VGtM
   - FTD
   - MTF
