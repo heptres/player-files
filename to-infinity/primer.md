@@ -12,7 +12,8 @@
 
 ## Charktererstellung
 
-- 31 Punkte Pointbuy (Start 8, Max 18) [chicken-dinner.com](chicken-dinner.com)
+- 31 Punkte Pointbuy (Start 8, Max 18) [chicken-dinner.com](https://chicken-dinner.com/5e/5e-point-buy.html
+)
 - Start-Level 4
 - HP voll auf Level 1 + Durchschnitt pro Level + Con-Mod/Level
 - 1 Bonus-Feat von Liste
@@ -65,12 +66,13 @@
   - TCE
   - XGE
   - VGtM
+  - MOT
   - FTD
   - MTF
   - MPMM
   - ERlW
   - EGW
-  - VRG
+  - VRGtR
   - MoMi
   - ExEb
   - [UA Spelljammer](UA2021_TravelersoftheMultiverse.pdf)

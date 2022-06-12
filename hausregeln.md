@@ -1,5 +1,15 @@
 # Hausregeln
 
+## Verschiedenes
+
+**Erschöpfung & Todesrettungswurf:** Wenn ein Charakter das erste Mal einen Todesrettungswurf nicht besteht, nachdem er auf 0 HP gefallen ist, erhält er eine Stufe Erschöpfung.
+
+## Vorteil und Nachteil
+
+**Vor- und Nachteile sammeln:** Vor- und Nachteil werden 1:1 miteinander verrechnet. Für jeden überwiegenden Vorteil über 1, kumuliert der Wurf einen +1 Bonus, bei Nachteil wird ein -1 Bonus kumuliert. 
+
+**Freunde mit Vorteil:** Nur ein Spieler darf würfeln, um ein Ergebnis für die Gruppe zu erzielen, z. B. das Entschärfen einer Falle. Er darf von einem anderen Spieler "Hilfe" erhalten, wenn dieser in der entsprechenden Fertigkeit geübt ist. Beide Spieler würfeln, das höchste Ergebnis wird behalten.
+
 ## Tränke
 
 Die Einnahme eines Trankes ist eine freie Aktion, einmalig pro Runde.
