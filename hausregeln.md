@@ -2,13 +2,19 @@
 
 ## Verschiedenes
 
-**Erschöpfung & Todesrettungswurf:** Wenn ein Charakter das erste Mal einen Todesrettungswurf nicht besteht, nachdem er auf 0 HP gefallen ist, erhält er eine Stufe Erschöpfung.
+**Erschöpfung & Todesrettungswurf.** Wenn ein Charakter das erste Mal einen Todesrettungswurf nicht besteht, nachdem er auf 0 HP gefallen ist, erhält er eine Stufe Erschöpfung.
+
+**Ausdauer-X Rettungswurf.** Ein Ausdauer-X Rettungswurf, bei dem X eine Zahl ist, hat einen SG vom Maximum von 10 oder dem halben erlittenen Schaden.
+
+Nimmt eine Kreatur bei einer Tätigkeit Schaden, und will diese ohne Unterbrechung ausführen, muss ein Ausdauerrettungswurf gemacht werden. Der SG liegt üblicherweise bei 10, kann aber vom Spielleiter je nach Schwierigkeit der Tätigkeit angepasst werden.
+
+Konzentrations- oder Brennendwürfe sind Ausdauer-10 Rettungswürfe.
 
 ## Vorteil und Nachteil
 
-**Vor- und Nachteile sammeln:** Vor- und Nachteil werden 1:1 miteinander verrechnet. Für jeden überwiegenden Vorteil über 1, kumuliert der Wurf einen +1 Bonus, bei Nachteil wird ein -1 Bonus kumuliert. 
+**Vor- und Nachteile sammeln.** Vor- und Nachteil werden 1:1 miteinander verrechnet. Für jeden überwiegenden Vorteil über 1, kumuliert der Wurf einen +1 Bonus, bei Nachteil wird ein -1 Bonus kumuliert.
 
-**Freunde mit Vorteil:** Nur ein Spieler darf würfeln, um ein Ergebnis für die Gruppe zu erzielen, z. B. das Entschärfen einer Falle. Er darf von einem anderen Spieler "Hilfe" erhalten, wenn dieser in der entsprechenden Fertigkeit geübt ist. Beide Spieler würfeln, das höchste Ergebnis wird behalten.
+**Freunde mit Vorteil.** Nur ein Spieler darf würfeln, um ein Ergebnis für die Gruppe zu erzielen, z. B. das Entschärfen einer Falle. Er darf von einem anderen Spieler "Hilfe" erhalten, wenn dieser in der entsprechenden Fertigkeit geübt ist. Beide Spieler würfeln, das höchste Ergebnis wird behalten.
 
 ## Tränke
 
@@ -32,3 +38,9 @@ Bei einem Erfolg ist dein Körper in der Lage, die Restmagie von mehreren Tränk
 ### Friends
 
 Erlaubt einen +2 Bonus auf CHA-Würfe gegen feindliche Humanoide.
+
+## Zustände
+
+### Brennend
+
+Wenn ein entflammbares Ziel 10+ Feuerschaden erleidet, muss es einen Ausdauer-10 DEXS-Wurf pro Schadensquelle bestehen, bei einem Fehlschlag erhält es den Zustand **Brennend*.
