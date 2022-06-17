@@ -61,7 +61,7 @@
   - Tough, PHB
   - War Caster, PHB
   - Wood Elf Magic, XGE
-- [Bücher](5e.tools)
+- [Bücher](https://5e.tools)
   - PHB
   - TCE
   - XGE
@@ -165,4 +165,22 @@ All Welten sind umgeben von einer Sphäre, die wiederum vom restlichen _Phlogist
 
 ### Fraktionen
 
-TODO
+#### Die Marine ihrer Königin    
+
+#### Die Generation der Freiheit
+
+#### Die Handels-Föderation      
+
+#### Giff                        
+
+#### Gith                        
+
+### Sprachen
+
+| **Fraktion**                | **Sprache** |
+|:----------------------------|:------------|
+| Die Marine ihrer Königin    | Halbling    |
+| Die Generation der Freiheit | Halbling    |
+| Die Handels-Föderation      | Gnomisch    |
+| Giff                        | Zwergisch   |
+| Gith                        | Sylvan      |
