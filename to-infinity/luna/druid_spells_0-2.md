@@ -13,6 +13,9 @@ Whispering to the spirits of nature, you create one of the following effects wit
 - You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of skunk. The effect must fit in a 5-foot cube.
 - You instantly light or snuff out a candle, a torch, or a small campfire.
 
+---
+---
+
 #### Primal Savagery
 *Transmutation cantrip*
 ___
@@ -24,6 +27,9 @@ ___
 You channel primal magic to cause your teeth or fingernails to sharpen, ready to deliver a corrosive attack. Make a melee spell attack against one creature within 5 feet of you. On a hit, the target takes 1d10 acid damage. After you make the attack, your teeth or fingernails return to normal.
 
 The spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
+
+---
+---
 
 #### Thorn Whip
 *Transmutation cantrip*
@@ -37,6 +43,9 @@ You create a long, vine-like whip covered in thorns that lashes out at your comm
 
 This spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
+---
+---
+
 #### Absorb Elements
 *1st-level abjuration*
 ___
@@ -48,6 +57,9 @@ ___
 The spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra 1d6 damage of the triggering type, and the spell ends.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each slot level above 1st.
+
+---
+---
 
 #### Animal Friendship
 *1st-level enchantment*
@@ -61,6 +73,9 @@ This spell lets you convince a beast that you mean it no harm. Choose a beast th
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional beast for each slot level above 1st.
 
+---
+---
+
 #### Beast Bond
 *1st-level divination*
 ___
@@ -70,6 +85,9 @@ ___
 - **Duration:** Concentration, up to 10 minutes
 ---
 You establish a telepathic link with one beast you touch that is friendly to you or charmed by you. The spell fails if the beast's Intelligence score is 4 or higher. Until the spell ends, the link is active while you and the beast are within line of sight of each other. Through the link, the beast can understand your telepathic messages to it, and it can telepathically communicate simple emotions and concepts back to you. While the link is active, the beast gains advantage on attack rolls against any creature within 5 feet of you that you can see.
+
+---
+---
 
 #### Charm Person
 *1st-level enchantment*
@@ -82,6 +100,9 @@ ___
 You attempt to charm a humanoid you can see within range. It must make a Wisdom saving throw, and does so with advantage if you or your companions are fighting it. If it fails the saving throw, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature regards you as a friendly acquaintance. When the spell ends, the creature knows it was charmed by you.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.
+
+---
+---
 
 #### Create or Destroy Water
 *1st-level transmutation*
@@ -99,6 +120,9 @@ You either create or destroy water.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, you create or destroy 10 additional gallons of water, or the size of the cube increases by 5 feet, for each slot level above 1st.
 
+---
+---
+
 #### Cure Wounds
 *1st-level evocation*
 ___
@@ -110,6 +134,9 @@ ___
 A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.
+
+---
+---
 
 #### Detect Magic
 *1st-level divination (ritual)*
@@ -123,6 +150,9 @@ For the duration, you sense the presence of magic within 30 feet of you. If you 
 
 The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
+---
+---
+
 #### Detect Poison and Disease
 *1st-level divination (ritual)*
 ___
@@ -135,6 +165,9 @@ For the duration, you can sense the presence and location of poisons, poisonous 
 
 The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
+---
+---
+
 #### Earth Tremor
 *1st-level evocation*
 ___
@@ -146,6 +179,9 @@ ___
 You cause a tremor in the ground within range. Each creature other than you in that area must make a Dexterity saving throw. On a failed save, a creature takes 1d6 bludgeoning damage and is knocked prone. If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared, with each 5-foot-diameter portion requiring at least 1 minute to clear by hand.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
+
+---
+---
 
 #### Entangle
 *1st-level conjuration*
@@ -161,6 +197,9 @@ A creature in the area when you cast the spell must succeed on a Strength saving
 
 When the spell ends, the conjured plants wilt away.
 
+---
+---
+
 #### Faerie Fire
 *1st-level evocation*
 ___
@@ -172,6 +211,9 @@ ___
 Each object in a 20-foot cube within range is outlined in blue, green, or violet light (your choice). Any creature in the area when the spell is cast is also outlined in light if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed dim light in a 10-foot radius.
 
 Any attack roll against an affected creature or object has advantage if the attacker can see it, and the affected creature or object can't benefit from being invisible.
+
+---
+---
 
 #### Fog Cloud
 *1st-level conjuration*
@@ -185,6 +227,9 @@ You create a 20-foot-radius sphere of fog centered on a point within range. The 
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the radius of the fog increases by 20 feet for each slot level above 1st.
 
+---
+---
+
 #### Goodberry
 *1st-level transmutation*
 ___
@@ -196,6 +241,9 @@ ___
 Up to ten berries appear in your hand and are infused with magic for the duration. A creature can use its action to eat one berry. Eating a berry restores 1 hit point, and the berry provides enough nourishment to sustain a creature for one day.
 
 The berries lose their potency if they have not been consumed within 24 hours of the casting of this spell.
+
+---
+---
 
 #### Healing Word
 *1st-level evocation*
@@ -209,6 +257,9 @@ A creature of your choice that you can see within range regains hit points equal
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d4 for each slot level above 1st.
 
+---
+---
+
 #### Ice Knife
 *1st-level conjuration*
 ___
@@ -221,6 +272,9 @@ You create a shard of ice and fling it at one creature within range. Make a rang
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the cold damage increases by 1d6 for each slot level above 1st.
 
+---
+---
+
 #### Jump
 *1st-level transmutation*
 ___
@@ -230,6 +284,9 @@ ___
 - **Duration:** 1 minute
 ---
 You touch a creature. The creature's *jump distance* is tripled until the spell ends.
+
+---
+---
 
 #### Longstrider
 *1st-level transmutation*
@@ -243,6 +300,9 @@ You touch a creature. The target's speed increases by 10 feet until the spell en
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
+---
+---
+
 #### Protection from Evil and Good
 *1st-level abjuration*
 ___
@@ -255,6 +315,9 @@ Until the spell ends, one willing creature you touch is protected against certai
 
 The protection grants several benefits. Creatures of those types have disadvantage on attack rolls against the target. The target also can't be charmed, frightened, or possessed by them. If the target is already charmed, frightened, or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect.
 
+---
+---
+
 #### Purify Food and Drink
 *1st-level transmutation (ritual)*
 ___
@@ -264,6 +327,9 @@ ___
 - **Duration:** Instantaneous
 ---
 All nonmagical food and drink within a 5-foot-radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease.
+
+---
+---
 
 #### Snare
 *1st-level abjuration*
@@ -283,6 +349,9 @@ A restrained creature can make a Dexterity saving throw at the end of each of it
 
 After the trap is triggered, the spell ends when no creature is restrained by it.
 
+---
+---
+
 #### Speak with Animals
 *1st-level divination (ritual)*
 ___
@@ -292,6 +361,9 @@ ___
 - **Duration:** 10 minutes
 ---
 You gain the ability to comprehend and verbally communicate with beasts for the duration. The knowledge and awareness of many beasts is limited by their intelligence, but at minimum, beasts can give you information about nearby locations and monsters, including whatever they can perceive or have perceived within the past day. You might be able to persuade a beast to perform a small favor for you, at the DM's discretion.
+
+---
+---
 
 #### Thunderwave
 *1st-level evocation*
@@ -307,6 +379,9 @@ In addition, unsecured objects that are completely within the area of effect are
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
 
+---
+---
+
 #### Animal Messenger
 *2nd-level enchantment (ritual)*
 ___
@@ -320,6 +395,9 @@ By means of this spell, you use an animal to deliver a message. Choose a Tiny be
 When the messenger arrives, it delivers your message to the creature that you described, replicating the sound of your voice. The messenger speaks only to a creature matching the description you gave. If the messenger doesn't reach its destination before the spell ends, the message is lost, and the beast makes its way back to where you cast this spell.
 
 ***At Higher Levels.*** If you cast this spell using a spell slot of 3rd level or higher, the duration of the spell increases by 48 hours for each slot level above 2nd.
+
+---
+---
 
 #### Augury
 *2nd-level divination (ritual)*
@@ -340,6 +418,9 @@ The spell doesn't take into account any possible circumstances that might change
 
 If you cast the spell two or more times before completing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get a random reading. The DM makes this roll in secret.
 
+---
+---
+
 #### Barkskin
 *2nd-level transmutation*
 ___
@@ -349,6 +430,9 @@ ___
 - **Duration:** Concentration, up to 1 hour
 ---
 You touch a willing creature. Until the spell ends, the target's skin has a rough, bark-like appearance, and the target's AC can't be less than 16, regardless of what kind of armor it is wearing.
+
+---
+---
 
 #### Beast Sense
 *2nd-level divination (ritual)*
@@ -360,6 +444,9 @@ ___
 ---
 You touch a willing beast. For the duration of the spell, you can use your action to see through the beast's eyes and hear what it hears, and continue to do so until you use your action to return to your normal senses. While perceiving through the beast's senses, you gain the benefits of any special senses possessed by that creature, though you are blinded and deafened to your own surroundings.
 
+---
+---
+
 #### Continual Flame
 *2nd-level evocation*
 ___
@@ -370,6 +457,9 @@ ___
 ---
 A flame, equivalent in brightness to a torch, springs forth from an object that you touch. The effect looks like a regular flame, but it creates no heat and doesn't use oxygen. A continual flame can be covered or hidden but not smothered or quenched.
 
+---
+---
+
 #### Darkvision
 *2nd-level transmutation*
 ___
@@ -379,6 +469,9 @@ ___
 - **Duration:** 8 hours
 ---
 You touch a willing creature to grant it the ability to see in the dark. For the duration, that creature has darkvision out to a range of 60 feet.
+
+---
+---
 
 #### Dust Devil
 *2nd-level conjuration*
@@ -396,6 +489,9 @@ As a bonus action, you can move the dust devil up to 30 feet in any direction. I
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
 
+---
+---
+
 #### Earthbind
 *2nd-level transmutation*
 ___
@@ -405,6 +501,9 @@ ___
 - **Duration:** Concentration, up to 1 minute
 ---
 Choose one creature you can see within range. Yellow strips of magical energy loop around the creature. The target must succeed on a Strength saving throw, or its flying speed (if any) is reduced to 0 feet for the spell's duration. An airborne creature affected by this spell safely descends at 60 feet per round until it reaches the ground or the spell ends.
+
+---
+---
 
 #### Enhance Ability
 *2nd-level transmutation*
@@ -430,6 +529,9 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
 
+---
+---
+
 #### Enlarge/Reduce
 *2nd-level transmutation*
 ___
@@ -446,6 +548,9 @@ If the target is a creature, everything it is wearing and carrying changes size 
 
 ***Reduce.*** The target's size is halved in all dimensions, and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category—from Medium to Small, for example. Until the spell ends, the target also has disadvantage on Strength checks and Strength saving throws. The target's weapons also shrink to match its new size. While these weapons are reduced, the target's attacks with them deal 1d4 less damage (this can't reduce the damage below 1).
 
+---
+---
+
 #### Find Traps
 *2nd-level divination*
 ___
@@ -457,6 +562,9 @@ ___
 You sense the presence of any trap within range that is within line of sight. A trap, for the purpose of this spell, includes anything that would inflict a sudden or unexpected effect you consider harmful or undesirable, which was specifically intended as such by its creator. Thus, the spell would sense an area affected by the *alarm* spell, a *glyph of warding*, or a mechanical pit trap, but it would not reveal a natural weakness in the floor, an unstable ceiling, or a hidden sinkhole.
 
 This spell merely reveals that a trap is present. You don't learn the location of each trap, but you do learn the general nature of the danger posed by a trap you sense.
+
+---
+---
 
 #### Flame Blade
 *2nd-level evocation*
@@ -474,6 +582,9 @@ The flaming blade sheds bright light in a 10-foot radius and dim light for an ad
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for every two slot levels above 2nd.
 
+---
+---
+
 #### Flaming Sphere
 *2nd-level conjuration*
 ___
@@ -489,6 +600,9 @@ As a bonus action, you can move the sphere up to 30 feet. If you ram the sphere 
 When you move the sphere, you can direct it over barriers up to 5 feet tall and jump it across pits up to 10 feet wide. The sphere ignites flammable objects not being worn or carried, and it sheds bright light in a 20-foot radius and dim light for an additional 20 feet.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.
+
+---
+---
 
 #### Gust of Wind
 *2nd-level evocation*
@@ -506,6 +620,9 @@ The gust disperses gas or vapor, and it extinguishes candles, torches, and simil
 
 As a bonus action on each of your turns before the spell ends, you can change the direction in which the line blasts from you.
 
+---
+---
+
 #### Healing Spirit
 *2nd-level conjuration*
 ___
@@ -522,6 +639,9 @@ As a bonus action on your turn, you can move the spirit up to 30 feet to a space
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the healing increases by 1d6 for each slot level above 2nd.
 
+---
+---
+
 #### Heat Metal
 *2nd-level transmutation*
 ___
@@ -536,6 +656,9 @@ If a creature is holding or wearing the object and takes the damage from it, the
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
 
+---
+---
+
 #### Hold Person
 *2nd-level enchantment*
 ___
@@ -548,6 +671,9 @@ Choose a humanoid that you can see within range. The target must succeed on a Wi
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional humanoid for each slot level above 2nd. The humanoids must be within 30 feet of each other when you target them.
 
+---
+---
+
 #### Lesser Restoration
 *2nd-level abjuration*
 ___
@@ -558,6 +684,9 @@ ___
 ---
 You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.
 
+---
+---
+
 #### Locate Animals or Plants
 *2nd-level divination (ritual)*
 ___
@@ -567,6 +696,9 @@ ___
 - **Duration:** Instantaneous
 ---
 Describe or name a specific kind of beast or plant. Concentrating on the voice of nature in your surroundings, you learn the direction and distance to the closest creature or plant of that kind within 5 miles, if any are present.
+
+---
+---
 
 #### Locate Object
 *2nd-level divination*
@@ -581,6 +713,9 @@ Describe or name an object that is familiar to you. You sense the direction to t
 The spell can locate a specific object known to you, as long as you have seen it up close—within 30 feet—at least once. Alternatively, the spell can locate the nearest object of a particular kind, such as a certain kind of apparel, jewelry, furniture, tool, or weapon.
 
 This spell can't locate an object if any thickness of lead, even a thin sheet, blocks a direct path between you and the object.
+
+---
+---
 
 #### Moonbeam
 *2nd-level evocation*
@@ -600,6 +735,9 @@ On each of your turns after you cast this spell, you can use an action to move t
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d10 for each slot level above 2nd.
 
+---
+---
+
 #### Pass without Trace
 *2nd-level abjuration*
 ___
@@ -609,6 +747,9 @@ ___
 - **Duration:** Concentration, up to 1 hour
 ---
 A veil of shadows and silence radiates from you, masking you and your companions from detection. For the duration, each creature you choose within 30 feet of you (including you) has a +10 bonus to Dexterity (Stealth) checks and can't be tracked except by magical means. A creature that receives this bonus leaves behind no tracks or other traces of its passage.
+
+---
+---
 
 #### Protection from Poison
 *2nd-level abjuration*
@@ -622,6 +763,9 @@ You touch a creature. If it is poisoned, you neutralize the poison. If more than
 
 For the duration, the target has advantage on saving throws against being poisoned, and it has resistance to poison damage.
 
+---
+---
+
 #### Skywrite
 *2nd-level transmutation (ritual)*
 ___
@@ -631,6 +775,9 @@ ___
 - **Duration:** Concentration, up to 1 hour
 ---
 You cause up to ten words to form in a part of the sky you can see. The words appear to be made of cloud and remain in place for the spell's duration. The words dissipate when the spell ends. A strong wind can disperse the clouds and end the spell early.
+
+---
+---
 
 #### Spike Growth
 *2nd-level transmutation*
@@ -643,6 +790,9 @@ ___
 The ground in a 20-foot radius centered on a point within range twists and sprouts hard spikes and thorns. The area becomes difficult terrain for the duration. When a creature moves into or within the area, it takes 2d4 piercing damage for every 5 feet it travels.
 
 The transformation of the ground is camouflaged to look natural. Any creature that can't see the area at the time the spell is cast must make a Wisdom (Perception) check against your spell save DC to recognize the terrain as hazardous before entering it.
+
+---
+---
 
 #### Summon Beast
 *2nd-level conjuration*
@@ -657,6 +807,9 @@ You call forth a bestial spirit. It manifests in an unoccupied space that you ca
 The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, use the higher level wherever the spell's level appears in the stat block.
+
+---
+---
 
 #### Warding Wind
 *2nd-level evocation*
@@ -675,6 +828,9 @@ The wind has the following effects:
 - It hedges out vapor, gas, and fog that can be dispersed by strong wind.
 - The area is difficult terrain for creatures other than you.
 - The attack rolls of ranged weapon attacks have disadvantage if the attacks pass in or out of the wind.
+
+---
+---
 
 #### Wither and Bloom
 *2nd-level necromancy*
