@@ -10,6 +10,22 @@ Nimmt eine Kreatur bei einer Tätigkeit Schaden, und will diese ohne Unterbrechu
 
 Konzentrations- oder Brennendwürfe sind Ausdauer-10 Rettungswürfe.
 
+## Inspiration
+
+Am Ende jeder Session wird von den Spieler abgestimmt, wer einen Inspirationswürfel bekommt. Jeder Spieler hat eine Stimme und kann nicht für sich selbst abstimmen. Die Absolute Mehrheit entscheidet, bei gleichstand entscheidet der Spielleiter. Zusätzlich vergibt der Spielleiter am Ende einer Session eine Inspirationswürfel. 
+
+Jeder Spieler kann bis zu 5 Inspirationswürfel haben. Ein Inspirationswürfel ist abhängig vom Level der Gruppe.
+
+| **Level** | **Würfel** |
+|:---------:|:----------:|
+|    1-4    |    1d4     |
+|    5-8    |    1d6     |
+|   9-12    |    1d8     |
+|   13-16   |    1d10    |
+|   17-20   |    1d12    |
+
+Ein Inspiratoionswürfel kann einmalig eingesetzt werden, um als Bonus eines **d20** Wurfes geworfen zu werden. Der Inspirationswürfel kann für sich selbst auch nach dem Verkünden des Ergebnisses eingesetzt werden. Um einen Wurf eines anderen Spielers mit einem Inspirationswürfel zu unterstützen, muss dies vor dem Wurf angekündigt werden.
+
 ## Vorteil und Nachteil
 
 **Vor- und Nachteile sammeln.** Vor- und Nachteil werden 1:1 miteinander verrechnet. Für jeden überwiegenden Vorteil über 1, kumuliert der Wurf einen +1 Bonus, bei Nachteil wird ein -1 Bonus kumuliert.
