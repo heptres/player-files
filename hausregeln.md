@@ -4,7 +4,7 @@
 
 **Erschöpfung & Todesrettungswurf.** Wenn ein Charakter das erste Mal einen Todesrettungswurf nicht besteht, nachdem er auf 0 HP gefallen ist, erhält er eine Stufe Erschöpfung.
 
-**Ausdauer-X Rettungswurf.** Ein Ausdauer-X Rettungswurf, bei dem X eine Zahl ist, hat einen SG vom Maximum von 10 oder dem halben erlittenen Schaden.
+**Ausdauer-X Rettungswurf.** Ein Ausdauer-X Rettungswurf, bei dem X eine Zahl ist, hat einen SG vom Maximum von X oder dem halben erlittenen Schaden.
 
 Nimmt eine Kreatur bei einer Tätigkeit Schaden, und will diese ohne Unterbrechung ausführen, muss ein Ausdauerrettungswurf gemacht werden. Der SG liegt üblicherweise bei 10, kann aber vom Spielleiter je nach Schwierigkeit der Tätigkeit angepasst werden.
 
@@ -12,7 +12,7 @@ Konzentrations- oder Brennendwürfe sind Ausdauer-10 Rettungswürfe.
 
 ## Inspiration
 
-Am Ende jeder Session wird von den Spieler abgestimmt, wer einen Inspirationswürfel bekommt. Jeder Spieler hat eine Stimme und kann nicht für sich selbst abstimmen. Die Absolute Mehrheit entscheidet, bei gleichstand entscheidet der Spielleiter. Zusätzlich vergibt der Spielleiter am Ende einer Session eine Inspirationswürfel. 
+Am Ende jeder Session wird von den Spieler abgestimmt, wer einen Inspirationswürfel bekommt. Jeder Spieler hat eine Stimme und kann nicht für sich selbst abstimmen. Die Absolute Mehrheit entscheidet, bei gleichstand entscheidet der Spielleiter. Zusätzlich vergibt der Spielleiter am Ende einer Session eine Inspirationswürfel.
 
 Jeder Spieler kann bis zu 5 Inspirationswürfel haben. Ein Inspirationswürfel ist abhängig vom Level der Gruppe.
 
@@ -39,7 +39,7 @@ Die Einnahme eines Trankes ist eine freie Aktion, einmalig pro Runde.
 Wenn du mehr als deinen 1 + CON-Mod an Tränken zu dir nimmst, bevor du eine lange Rast beendest, musst du nach dem Trinken einen Konstitutions-Erhaltungswurf machen. Der DC des Rettungswurfs entspricht der Stärke des Trankes, den du getrunken hast. Wenn du drei oder mehr Tränke trinkst, bevor du eine lange Ruhepause beendest, hast du einen Nachteil bei diesem Rettungswurf.
 
 | **Name**         | **Potency** | **Potion Rarity** | **Potion Toxicity DC** |
-|:-----------------|:------------|:------------------|:----------------------:|
+|:-----------------|:-----------:|:------------------|:----------------------:|
 | Regular (25gp)   | 2d4+2       | Common            |           9            |
 | Better (75gp)    | 4d4+4       | Uncommon          |           11           |
 | Greater (200gp)  | 8d4+8       | Rare              |           13           |
@@ -59,4 +59,4 @@ Erlaubt einen +2 Bonus auf CHA-Würfe gegen feindliche Humanoide.
 
 ### Brennend
 
-Wenn ein entflammbares Ziel 10+ Feuerschaden erleidet, muss es einen Ausdauer-10 DEXS-Wurf pro Schadensquelle bestehen, bei einem Fehlschlag erhält es den Zustand **Brennend*.
+Wenn ein entflammbares Ziel 10+ Feuerschaden erleidet, muss es einen Ausdauer-10 DEXS-Wurf pro Schadensquelle bestehen, bei einem Fehlschlag erhält es den Zustand **Brennend**. Nicht getragenen Gegenständen misslingt der Wurf automatisch und sie beginnen zu brennen, auch wenn der Effekt es nicht vorsieht. Für den **Firebolt** Cantrip heißt das, der Schadenswurf muss mindestens 10 sein, damit ein Ziel zu **brennen** beginnt.  
