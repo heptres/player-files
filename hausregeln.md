@@ -10,6 +10,12 @@ Nimmt eine Kreatur bei einer Tätigkeit Schaden, und will diese ohne Unterbrechu
 
 Konzentrations- oder Brennendwürfe sind Ausdauer-10 Rettungswürfe.
 
+## Fertigkeitswürfe
+
+**Gruppenfertigskeitswürfe.** Wenn mehr als eine Person ein Fertigkeit ausüben möchte, dann macht der Initiator seinen Wurf mit dem höchsten Bonus aller am Wurf beteiligten und erhält Vorteil für jeden weiteren Helfer.  Es gelten die normalen Regeln für Vorteil, siehe unten.
+
+**Fertigkeitswürfe mit Werkzeugen** Macht ein Spieler einen **geübten** Fertigkeitswurf mit Werkzeugen in denen er auch **geübt** ist, kann dieser mit Vorteil gemacht werden. Siege _XGE p78_
+
 ## Inspiration
 
 Am Ende jeder Session wird von den Spieler abgestimmt, wer einen Inspirationswürfel bekommt. Jeder Spieler hat eine Stimme und kann nicht für sich selbst abstimmen. Die Absolute Mehrheit entscheidet, bei gleichstand entscheidet der Spielleiter. Zusätzlich vergibt der Spielleiter am Ende einer Session eine Inspirationswürfel.
