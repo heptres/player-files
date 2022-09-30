@@ -10,6 +10,8 @@ Nimmt eine Kreatur bei einer Tätigkeit Schaden, und will diese ohne Unterbrechu
 
 Konzentrations- oder Brennendwürfe sind Ausdauer-10 Rettungswürfe.
 
+**Leicht \[Waffeneigenschaft\]** Wenn du in deinem Zug die Angriffsaktion ausführst und mit einer Leichten Waffe in einer Hand angreifst, kannst du im Rahmen derselben Aktion einen zusätzlichen Angriff ausführen. Dieser zusätzliche Angriff muss mit einer anderen Leichten Waffe in der anderen Hand ausgeführt werden, und du addierst deinen Fähigkeitsmodifikator nicht zum Schaden des zusätzlichen Angriffs. Du kannst diese zusätzliche Attacke nur einmal in jedem deiner Züge durchführen.
+
 ## Fertigkeitswürfe
 
 **Gruppenfertigskeitswürfe.** Wenn mehr als eine Person ein Fertigkeit ausüben möchte, dann macht der Initiator seinen Wurf mit dem höchsten Bonus aller am Wurf beteiligten und erhält Vorteil für jeden weiteren Helfer.  Es gelten die normalen Regeln für Vorteil, siehe unten.
