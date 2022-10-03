@@ -10,19 +10,21 @@ Nimmt eine Kreatur bei einer Tätigkeit Schaden, und will diese ohne Unterbrechu
 
 Konzentrations- oder Brennendwürfe sind Ausdauer-10 Rettungswürfe.
 
-**Leicht \[Waffeneigenschaft\]**. Wenn du in deinem Zug die Angriffsaktion ausführst und mit einer Leichten Waffe in einer Hand angreifst, kannst du im Rahmen derselben Aktion einen zusätzlichen Angriff ausführen. Dieser zusätzliche Angriff muss mit einer anderen Leichten Waffe in der anderen Hand ausgeführt werden, und du addierst deinen Fähigkeitsmodifikator nicht zum Schaden des zusätzlichen Angriffs. Du kannst diese zusätzliche Attacke nur einmal in jedem deiner Züge durchführen.
+**Leicht [Waffeneigenschaft]**. Wenn du in deinem Zug die Angriffsaktion ausführst und mit einer Leichten Waffe in einer Hand angreifst, kannst du im Rahmen derselben Aktion einen zusätzlichen Angriff ausführen. Dieser zusätzliche Angriff muss mit einer anderen Leichten Waffe in der anderen Hand ausgeführt werden, und du addierst deinen Fähigkeitsmodifikator nicht zum Schaden des zusätzlichen Angriffs. Du kannst diese zusätzliche Attacke nur einmal in jedem deiner Züge durchführen.
 
 ## Fertigkeitswürfe
 
 **Gruppenfertigskeitswürfe.** Wenn mehr als eine Person ein Fertigkeit ausüben möchte, dann macht der Initiator seinen Wurf mit dem höchsten Bonus aller am Wurf beteiligten und erhält Vorteil für jeden weiteren Helfer.  Es gelten die normalen Regeln für Vorteil, siehe unten.
 
-**Fertigkeitswürfe mit Werkzeugen** Macht ein Spieler einen **geübten** Fertigkeitswurf mit Werkzeugen in denen er auch **geübt** ist, kann dieser mit Vorteil gemacht werden. Siege _XGE p78_
+**Fertigkeitswürfe mit Werkzeugen** Macht ein Spieler einen **geübten** Fertigkeitswurf mit Werkzeugen in denen er auch **geübt** ist, kann dieser mit Vorteil gemacht werden. Siehe _XGE p78_
 
 ## Inspiration
 
-Am Ende jeder Session wird von den Spieler abgestimmt, wer einen Inspirationswürfel bekommt. Jeder Spieler hat eine Stimme und kann nicht für sich selbst abstimmen. Die Absolute Mehrheit entscheidet, bei gleichstand entscheidet der Spielleiter. Zusätzlich vergibt der Spielleiter am Ende einer Session eine Inspirationswürfel.
+Jeder Spieler hat eine Pool von bis zu 5 Inspirationswürfeln. Ein Inspirationswürfel kann einmalig als Bonus eines **d20**-Wurfes geworfen werden. Der Inspirationswürfel kann für einen eigenen **d20**-Wurf auch nach dem Verkünden des Ergebnisses eingesetzt werden. Um einen Wurf eines anderen Spielers mit einem Inspirationswürfel zu unterstützen, muss dies vor dem Wurf angekündigt werden.
 
-Jeder Spieler kann bis zu 5 Inspirationswürfel haben. Ein Inspirationswürfel ist abhängig vom Level der Gruppe.
+### Inspirationswürfel
+
+Die Augenzahl eines Inspirationswürfels ist abhängig vom Level des Spielers (Siehe Tabelle). Erreicht ein Spieler ein Level auf dem sich die Augenzahl der Inspirationswürfel erhöhen würde, dann erhöhen sich alle Würfel im Pool des Spielers auf die neue Augenzahl.
 
 | **Level** | **Würfel** |
 |:---------:|:----------:|
@@ -32,7 +34,13 @@ Jeder Spieler kann bis zu 5 Inspirationswürfel haben. Ein Inspirationswürfel i
 |   13-16   |    1d10    |
 |   17-20   |    1d12    |
 
-Ein Inspiratoionswürfel kann einmalig eingesetzt werden, um als Bonus eines **d20** Wurfes geworfen zu werden. Der Inspirationswürfel kann für sich selbst auch nach dem Verkünden des Ergebnisses eingesetzt werden. Um einen Wurf eines anderen Spielers mit einem Inspirationswürfel zu unterstützen, muss dies vor dem Wurf angekündigt werden.
+### Inspiration bekommen
+
+Am Ende jeder Session wird von den Spieler abgestimmt, wer einen Inspirationswürfel bekommt. Jeder Spieler hat eine Stimme und kann nicht für sich selbst abstimmen. Die Absolute Mehrheit entscheidet, bei gleichstand entscheidet der Spielleiter. Zusätzlich vergibt der Spielleiter am Ende einer Session eine Inspirationswürfel.
+
+Wirft ein Spieler eine natürliche 1 auf einen d20-Wurf, dann erhält dieser einen Inspirationswürfel.
+
+Weiterhin vergibt der Spielleiter nach eigener Diskretion Inspirationswürfel, um gutes Rollenspiel, Witze oder anderes positives Verhalten im Spiel zu belohnen.
 
 ## Vorteil und Nachteil
 
