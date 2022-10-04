@@ -20,23 +20,17 @@ Konzentrations- oder Brennendwürfe sind Ausdauer-10 Rettungswürfe.
 
 ## Inspiration
 
-Jeder Spieler hat eine Pool von bis zu 5 Inspirationswürfeln. Ein Inspirationswürfel kann einmalig als Bonus eines **d20**-Wurfes geworfen werden. Der Inspirationswürfel kann für einen eigenen **d20**-Wurf auch nach dem Verkünden des Ergebnisses eingesetzt werden. Um einen Wurf eines anderen Spielers mit einem Inspirationswürfel zu unterstützen, muss dies vor dem Wurf angekündigt werden.
+Jeder Spieler hat eine Pool von bis zu 5 Inspirationswürfeln. Ein Inspirationswürfel kann einmalig als Bonus eines **d20**-Wurfes geworfen werden. Dies kann vor oder nach dem Verkünden des Ergebnisses für einen eigenen **d20**-Wurf eingesetzt werden. Um einen Wurf eines anderen Spielers mit einem Inspirationswürfel zu unterstützen, muss dies vor dem Wurf angekündigt werden. Ein Wurf kann durch mehr als einen Inspirationswürfel unterstützt werden, jeder Spieler darf aber nur einen Würfel zu einem Wurf beisteuern.  
 
 ### Inspirationswürfel
 
-Die Augenzahl eines Inspirationswürfels ist abhängig vom Level des Spielers (Siehe Tabelle). Erreicht ein Spieler ein Level auf dem sich die Augenzahl der Inspirationswürfel erhöhen würde, dann erhöhen sich alle Würfel im Pool des Spielers auf die neue Augenzahl.
-
-| **Level** | **Würfel** |
-|:---------:|:----------:|
-|    1-4    |    1d4     |
-|    5-8    |    1d6     |
-|   9-12    |    1d8     |
-|   13-16   |    1d10    |
-|   17-20   |    1d12    |
+Die Augenzahl eines Inspirationswürfels entspricht dem des aktuellen Kompetenzwürfels eines Spielers. Erreicht ein Spieler ein Level, auf dem sich die Augenzahl der Kompetenzwürfels erhöhen würde, dann erhöhen sich alle Würfel im Inspirationspool des Spielers auf die neue Augenzahl.
 
 ### Inspiration bekommen
 
-Am Ende jeder Session wird von den Spieler abgestimmt, wer einen Inspirationswürfel bekommt. Jeder Spieler hat eine Stimme und kann nicht für sich selbst abstimmen. Die Absolute Mehrheit entscheidet, bei gleichstand entscheidet der Spielleiter. Zusätzlich vergibt der Spielleiter am Ende einer Session eine Inspirationswürfel.
+Am Ende jeder Session wird von den Spieler abgestimmt, wer einen Inspirationswürfel bekommt. Jeder Spieler hat eine Stimme und kann nicht für sich selbst abstimmen. Die Absolute Mehrheit entscheidet, bei gleichstand entscheidet der Spielleiter.
+
+Für das Verfassen eines Spielprotokolls erhält ein Spieler einen Inspirationswürfel.
 
 Wirft ein Spieler eine natürliche 1 auf einen d20-Wurf, dann erhält dieser einen Inspirationswürfel.
 
