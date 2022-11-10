@@ -1,7 +1,28 @@
 ## Session 20 Log – 10.11.2022 – Flori
 
+Der Ork hat die Polizei gerufen und wir müssen hier jetzt weg. Kaeisha ist nirgendwo zu sehen.
 
+Unterwegs verwandelt sich Robb in eine Katze, landet dabei aber leider in Euninchenkot. 
 
+Als wir betrunkenen Sportfans entgegenkommen trennen wir un um unsere Verfolger abzuschütteln. Remilia charged durch die Menge und ich nehme eine holprige Seitenstraße. Katzenrobb krallt sich in die Beine und hangelt sich von Fan zu Fan. 
+
+Remilia zieht und durch den Hintereingang in eine Kneipe und wir kommen ungesehen nach Hause. Robb wird auf dem Tresen in Bier und Abwaschwasser gebadet.
+
+Kaeisha und Karina warten schon im Krawall auf uns. Er ist unauffällig in die andere Richtung zu uns gegangen.
+
+Am nächsten Morgen mache ich Honig-Senf-Porridge, bei Robb und Yennypha kommte er gut an. Robb gewinnt ihren Röpswettbewerb.
+
+Karina erzählt von ihrem Leben in Gefangenschaft und dass sie Melitta nicht persönlich kennt, ihren Namen aber schon gehört hat. Melitta ist keine normale Dienerin und Wanda hatte vor Karina ihren Job bei Gwendolyn.
+
+Remilia rasiert Revellio mit einem Küchenmesser die Brust und tauscht die so gewonnenen Haare mit Yennypha gegen ein neues Axttattoo.
+
+Remilia geht zu Vesta und lässt sich ihre Schulden erlassen weil wir das Schiff angezündet haben.
+
+Robb schreibt an seinem Stadtführer.
+
+Am nächsten Tag bringe ich für Vesta die Zigarren zum Zwerg und beantrage meinen Perso.
+
+In Sachen Liebe bin ich weniger erfolgreich und bekomme einen Korb von der Angestellten im Bürgeramt.
 
 ## Session 19 Log – 13.10.2022 – Sebastian
 
@@ -15,7 +36,7 @@ Nach dem wir einige Zeit am Tisch im Kasino verbracht haben und die Zeit wie mag
 
 Nachdem sich Gewndolyn wieder von unserem Tisch entfernt hat, beginnen wir zu diskutieren wie wir jetzt weiter machen. Doch **Gwendolyn** scheint mit zu bekommen, dass wir immer noch sehr am diskutieren sind und wirft insbesondere Steely einen sehr kritischen Blick zu, doch Steely, charmant wie er ist, winkt ihr nur fröhlich zu. Um zu verstehen was in dieser Gwendolyn vor sich geht wirkt **Steely** *Detect Thoughts* auf **Gwendolyn** , sie denkt: "Noch könnte diese Gruppe für mich nützlich sein", als Steely jedoch versucht tiefer in Gedanke vorzudringen, bemerkt Gwendolyn das und findet das gar nicht lustig auf jeden Fall wird sie darauf hin deutlich unfreundlicher uns gegenüber. Nach etwas hitzigen hin- und her **Remilia** *droht* **Gwendolyn** sie solle uns verraten was hier vor sich geht. Doch **Gwendolyn** geht nicht darauf ein und wirkt *charm* auf **Remilia worauf Remilia** so friedlich wird wie ich sie eigentlich noch nie erlebt habe.
 
-Da wir aber alle die normale Remilia viel lieber mögen wirkt **Stealy** *Dispell Magic* auf **Remilia**, wodurch der Effekt von *Charm* endet, jedoch auch die Wirkung von Remilias Zaubertattoo, in dem sie ihre Axt verstaut hat. So kommt es das Remilias risen Axt plötzlich in ihren Händen auftaucht. Remilia, wieder bei klaren und normalen sinnen, freut sich so sehr ihre Axt plötzlich wieder in den Händen zu halten (oder ärgert sie sich, dass Steely mit Dispel Magic ihr magisches Tattoo kaputt gemacht hat? Da bin ich mir nicht ganz sicher, ich bin nicht so gut darin so etwas richtig zu deuten). Naja in dem Kampf habe ich (**Robb**) die grandiose Idee eine kleine Fee zu beschwören mittels *Summon Fey*. Am Ende des Kampfes will Gewendolyn einfach nicht aufgeben, auch nicht auf die Drohungen von Remilia . So kommt es, **Remilia** haut **Gewendolyn** *bewusstlos.* Doch noch bevor Gwewndolyn K.O. geht, konnte sie einen Zauber wirken worauf hin die Gäste rausgehen und die Bediensteten in die Küche gehen. Doch dann traue ich meinen Augen nicht, aus diese komischen Gwendolyn ist plötzlich ein junges Mädchen geworden, also an der Stelle wo Gwewndolyn bewusstlos zu Boden gegangen ist, liegt jetzt ein junge Frau.
+Da wir aber alle die normale Remilia viel lieber mögen wirkt **Stealy** *Dispel Magic* auf **Remilia**, wodurch der Effekt von *Charm* endet, jedoch auch die Wirkung von Remilias Zaubertattoo, in dem sie ihre Axt verstaut hat. So kommt es das Remilias risen Axt plötzlich in ihren Händen auftaucht. Remilia, wieder bei klaren und normalen sinnen, freut sich so sehr ihre Axt plötzlich wieder in den Händen zu halten (oder ärgert sie sich, dass Steely mit Dispel Magic ihr magisches Tattoo kaputt gemacht hat? Da bin ich mir nicht ganz sicher, ich bin nicht so gut darin so etwas richtig zu deuten). Naja in dem Kampf habe ich (**Robb**) die grandiose Idee eine kleine Fee zu beschwören mittels *Summon Fey*. Am Ende des Kampfes will Gewendolyn einfach nicht aufgeben, auch nicht auf die Drohungen von Remilia . So kommt es, **Remilia** haut **Gewendolyn** *bewusstlos.* Doch noch bevor Gwewndolyn K.O. geht, konnte sie einen Zauber wirken worauf hin die Gäste rausgehen und die Bediensteten in die Küche gehen. Doch dann traue ich meinen Augen nicht, aus diese komischen Gwendolyn ist plötzlich ein junges Mädchen geworden, also an der Stelle wo Gwewndolyn bewusstlos zu Boden gegangen ist, liegt jetzt ein junge Frau.
 
 Die Junge Frau stellt sich als **Karina** vor. Außerdem gibt sie uns den Hinweis, dass wir die Hexe (ich glaube damit ist diese olle Gewendolyn gemeint) finden können wenn wir durch die Küche gehen. Das probieren wir auch gleich, doch die Tür zur Küche ist verschlossen, doch das Problem behebt Remilia sehr schnell mit ihrer Axt. Also gehen wir in die Küche, doch die Küche ist leer. Die Fee die ich (Robb) im Kampf beschworen hatte, erklärt uns: Das ganze Casino liegt in der Feen Ebene und wir können die Hexe hier nicht verfolgen, sondern müssen außen rum. Die Fee bietet uns einen deal an, uns eventuell zu helfen. Als Geschäft bietet Steely der Fee **Roofies** an, die Fee probiert und schläft ein und fängt an im Schlaf zu Reden und hält Steely für ihren Toaster. Also die Fee ist wohl doch keine so große Hilfe mehr...
 
@@ -50,15 +71,15 @@ Steely versucht das Kästchen, das ihm Vesta anvertraut hat, heimlich zu öffnen
 
 Remilia geht den Spuren der verschwundenen Mädchen nach. Eines wurde mit einer älteren Frau mit silbernem Haar und rotem Pelzmantel gesehen. Sie sind zusammen über eine Brücke (Valenars Traum) gegangen bevor das Mädchen spurlos verschwunden ist.
 
-Remilia sucht Vesta auf um Informationen zu der silberhaarigen Frau zu sammeln.
+Remilia sucht Vesta auf um Informationen zu der silber-haarigen Frau zu sammeln.
 
-Gwendolin ist die Frau mit silbernem Haar. Sie betreibt ein Casino. Aber um reinzukommen ist eine besondere Einladung notwendig.
+Gwendolyn ist die Frau mit silbernem Haar. Sie betreibt ein Casino. Aber um reinzukommen ist eine besondere Einladung notwendig.
 
 Wir treffen uns alle bei Steely um zu Euler zu gehen.
 
-Remilia verzichtet darauf, Euler kennen zu lernen und erzählt, dass sie sich Gwendolin widmen muss. Bei Tilanes erwirbt sie einen Trank der Unsichtbarkeit. So folgt sie mit Hilfe des Tranks den beiden hinterher.
+Remilia verzichtet darauf, Euler kennen zu lernen und erzählt, dass sie sich Gwendolyn widmen muss. Bei Tilanes erwirbt sie einen Trank der Unsichtbarkeit. So folgt sie mit Hilfe des Tranks den beiden hinterher.
 
-Steely und **Kaeisha** treffen sich mit Euler und überbringen die Zeichnung und den Arm. Sie erhalten eine Belohnung für die Arbeit und bekommen einen neuen Auftrag —> findet heraus, wer den Posten des toten Politikers übernehmen will und ob es sich bei seinem Ableben um eine natürliche Ursache handelt oder ob da jemand nachgeholfen hat. Euler hat Gwendolin im Verdacht.
+Steely und **Kaeisha** treffen sich mit Euler und überbringen die Zeichnung und den Arm. Sie erhalten eine Belohnung für die Arbeit und bekommen einen neuen Auftrag —> findet heraus, wer den Posten des toten Politikers übernehmen will und ob es sich bei seinem Ableben um eine natürliche Ursache handelt oder ob da jemand nachgeholfen hat. Euler hat Gwendolyn im Verdacht.
 
 Zusätzlich gibt es eine weitere Residuum-Lieferung. **Kaeisha**, Steely und Rob sollen sich um diese kümmern, da Euler von einer Lücke in der Sicherheit erfahren hat.
 
@@ -66,11 +87,11 @@ Nach dem Treffen trennt sich Remilia von den Anderen und eilt schnell zu Vesta u
 
 Steely geht nach Hause, **Kaeisha** verschwindet ins Krawall.
 
-Remilia schmiedet mit Vesta einen Plan, Gwendolins Laden zu sabotieren.
+Remilia schmiedet mit Vesta einen Plan, Gwendolyns Laden zu sabotieren.
 
 Im Krawall trifft **Kaeisha** einen Gentleman, Arial Knickercocker, der ein Handelsgeschäft für Sanitär- und Haushaltswaren und Inneneinrichtung in der Stadt eröffnen will.
 
-**Kaeisha** zeigt Remilia die Einladung für Gwendolins Casino. Sie will am nächsten Tag früh los um jemanden zu finden, der die Einladung duplizieren kann.
+**Kaeisha** zeigt Remilia die Einladung für Gwendolyns Casino. Sie will am nächsten Tag früh los um jemanden zu finden, der die Einladung duplizieren kann.
 
 Am nächsten Tag:
 
