@@ -10,6 +10,8 @@ Remilia zieht und durch den Hintereingang in eine Kneipe und wir kommen ungesehe
 
 Kaeisha und Karina warten schon im Krawall auf uns. Er ist unauffällig in die andere Richtung zu uns gegangen.
 
+#### Sonntag
+
 Am nächsten Morgen mache ich Honig-Senf-Porridge, bei Robb und Yennypha kommte er gut an. Robb gewinnt ihren Röpswettbewerb.
 
 Karina erzählt von ihrem Leben in Gefangenschaft und dass sie Melitta nicht persönlich kennt, ihren Namen aber schon gehört hat. Melitta ist keine normale Dienerin und Wanda hatte vor Karina ihren Job bei Gwendolyn.
@@ -19,6 +21,8 @@ Remilia rasiert Revellio mit einem Küchenmesser die Brust und tauscht die so ge
 Remilia geht zu Vesta und lässt sich ihre Schulden erlassen weil wir das Schiff angezündet haben.
 
 Robb schreibt an seinem Stadtführer.
+
+#### Montag
 
 Am nächsten Tag bringe ich für Vesta die Zigarren zum Zwerg und beantrage meinen Perso.
 
