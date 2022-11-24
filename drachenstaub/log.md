@@ -1,3 +1,17 @@
+## Session 21 Log – 24.11.2022 – Maxi
+
+Steely geht zum Spiielzeugladen um seine kugellagerkugeln aufzufrischen.
+
+Kaeisha wird von Euler benachrichtigt, dieser ist unerfreut über das 'versehentliche' anzünden des Schiffes, wir sollen das schnellstmöglich klären. Ein Paket von Euler erscheint via Rabenpost, Sending Pergamente, eine Feder und ein Ohrring (unidentifiziert).
+
+Rob versucht sich am Abwasch, doch zu seinem Glück ist das Geschirr stabil genug, um dem stand zu halten. Wir gehen zu Vesta um Bericht zu erstatten und sollen ihm diverse Kuriositäten aus dem Feenreich mitbringen. Daraufhin beschenkt er jeden der Gruppe aus Zeichen der Guten zukünftigen Zusammenarbeiten. Eine Magische Laute, Sichel und Schuhe und zwei nimmervolle Beutel.
+
+Nun beschließen wir Gwendolyn zu besuchen. Auf dem Weg begegnet uns Yennypha und verabschiedet sich nach Thelanis (in die Feenwelt) samt Bodypillow. Kaeisha, Rob und Maelray steigen in die nimmervollen Beutel und Steely fliegt in den Oberbezirk. Dort trifft Steely auf eine Polizeibeamte, die er kurzer Hand einschüchtert und weglaufen lässt.
+
+Wir erhalten böse und verachtende Blicke von den Bewohnern der Oberstadt und brauchen eine gute dreiviertel Stunde zum Dockplatz von Gwendolyns Schiff. Dieses ist dort zwar festgemacht, allerdings schlecht erreichbar. Als Steely sich nun eine Planke nimmt, wird er eindringlich darum gebeten dieses zurückzugeben. Die Wache kommt, nachdem ihm die rote Karte gezeigt wurde und wird gebeten zu gehen. Nach eine kurzen Einflüsterung streiten die Wachen und Steely geht wieder. Rob verwandelt sich nach langer Diskussion über die sinnvolle Verwendung des nimmervollen Beutels in ein Pferd und zieht das Schiff heran.
+
+Wir betreten das Schiff und alle außer Steely failen den darauffolgenden Charisma-Wurf und Rob wird geistig zur Katze, Kaeisha wird hyper-seekrank und Maelray lacht. Daraufhin befreit Steely Kaeisha aus dem Bann und wir machen uns auf den Weg vom Schiff runter und stehen nun vor einem Schloss. Robb wälzt sich in Katzenminze.
+
 ## Session 20 Log – 10.11.2022 – Flori
 
 Der Ork hat die Polizei gerufen und wir müssen hier jetzt weg. Kaeisha ist nirgendwo zu sehen.
