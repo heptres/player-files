@@ -1,3 +1,9 @@
+## Session 09 – 30.11.2022 – 
+
+Die Gruppe hat den Entschluss gefasst, große Teile der hiesigen Bevölkerung wegen ihrer mangelnden Freundlichkeit umzubringen. Diskussionsgegenstand ist weniger das Ob, sondern mehr das Wie. Der Plan ist, die Zombies des Totenbeschwörers zu nutzen, indem wir die Holzfäller von der Siedlung weglocken und ihnen das falsche Passwort geben, damit die Zombies sie angreifen. Shawn, Talula, Ruven und Xuin locken 24 Zombies und ein Skelett zu den Holzfällern, während Peter bei den Zwergen bleibt. 
+
+Der Plan gelingt. Die Zombies erledigen ohne große Probleme die Zwergenholzfäller. Talula benutzt ihren Zauber, um dass Skelett zu ihrem Diener (Bonni) zu machen. Wir sammeln nach dem Kampf ihre Äxte (14 Eisenholzäxte a 20gp) und das geschlagene Holz (.31t) und bringen alles mit Bonni und 8 Zugpferden zum Schiff. Niemand scheint unsere Aktion bemerkt zu haben.  Wir brechen also auf und machen uns auf den Weg zur nächstgelegenen Handelsposten.  Auf dem Weg durch den Raum begegnen Veluga Veldarak, seiner Crew und seinem Schiff. Es handelt sich um Vampiraten. Sie wirken erstmal recht freundlich. Sebastian hat sie auf unser Schiff eingeladen (10.3t/20t Zuladunge benutzt, davon 5t Eisenholz, .31t Dschungelholz), um etwas mit ihnen zu trinken. Ja, richtig gehört. Er hat sie eingeladen. Um was zu trinken. Vampire.
+
 ## Session 08 – 17.11.2022 – Suna
 
 Ruven will den Nebel mit einem Zauber wiederbeleben um zu schauen was passiert. 
