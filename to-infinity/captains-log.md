@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Session 11 – 12.01.2023 – Ruven
 
 
@@ -18,6 +19,8 @@ Die Gruppe hat den Entschluss gefasst, große Teile der hiesigen Bevölkerung we
 
 Der Plan gelingt. Die Zombies erledigen ohne große Probleme die Zwergenholzfäller. Talula benutzt ihren Zauber, um dass Skelett zu ihrem Diener (Bonni) zu machen. Wir sammeln nach dem Kampf ihre Äxte (14 Eisenholzäxte a 20gp) und das geschlagene Holz (.31t) und bringen alles mit Bonni und 8 Zugpferden zum Schiff. Niemand scheint unsere Aktion bemerkt zu haben.  Wir brechen also auf und machen uns auf den Weg zur nächstgelegenen Handelsposten.  Auf dem Weg durch den Raum begegnen Veluga Veldarak, seiner Crew und seinem Schiff. Es handelt sich um Vampiraten. Sie wirken erstmal recht freundlich. Sebastian hat sie auf unser Schiff eingeladen (10.3t/20t Zuladunge benutzt, davon 5t Eisenholz, .31t Dschungelholz), um etwas mit ihnen zu trinken. Ja, richtig gehört. Er hat sie eingeladen. Um was zu trinken. Vampire.
 
+=======
+>>>>>>> parent of fa427fd... Spacejammer S09 Log
 ## Session 08 – 17.11.2022 – Suna
 
 Ruven will den Nebel mit einem Zauber wiederbeleben um zu schauen was passiert. 

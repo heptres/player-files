@@ -80,7 +80,4 @@ Erlaubt einen +2 Bonus auf CHA-Würfe gegen feindliche Humanoide.
 
 ### Brennend
 
-Wenn ein entflammbares Ziel 10+ Feuerschaden erleidet, muss es einen Ausdauer-10 DEX-Rettungswurf pro Schadensquelle bestehen, bei einem Fehlschlag erhält es den Zustand **Brennend**. Nicht getragenen Gegenständen misslingt der Wurf automatisch und sie beginnen zu brennen, auch wenn der Effekt es nicht vorsieht. Für den **Firebolt** Cantrip heißt das, der Schadenswurf muss mindestens 10 sein, damit ein Ziel zu **brennen** beginnt.
-
-
-It has disadvantage on attacks/ability checks. 1d4 fire damage on start of their turn until doused by an action.
+Wenn ein entflammbares Ziel 10+ Feuerschaden erleidet, muss es einen Ausdauer-10 DEXS-Wurf pro Schadensquelle bestehen, bei einem Fehlschlag erhält es den Zustand **Brennend**. Nicht getragenen Gegenständen misslingt der Wurf automatisch und sie beginnen zu brennen, auch wenn der Effekt es nicht vorsieht. Für den **Firebolt** Cantrip heißt das, der Schadenswurf muss mindestens 10 sein, damit ein Ziel zu **brennen** beginnt.  
