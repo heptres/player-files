@@ -1,4 +1,14 @@
-## Session 09 – 30.11.2022 – 
+## Session 10 – 15.12.2022 – Shawn
+
+Kapitän Valderack verschwindet mit Xuin, Peter, Ruven und Talula unters Deck.
+Shawn bleibt verborgen in einem Nebenraum und hört den Verhandlungen zu. 
+Der Kapitän interessiert sich für Hans und bietet für ihn plus unsere Futtervorräte für ihn Artefakte und Gold anzubieten.
+Das Angebot für eine Blutspende wird unterbreitet. Blut für ein weiteres Artefakt. 
+Talula misstraut den Piraten, obwohl sich der Kapitän sehr souverän verhält.
+Der Deal wird abgeschlossen und Ruven schlägt ein. 
+Gegen das Auerküken, das Futter und einiges an Blut der Crew bekommen wir Raketenschuhe, Nimmerbeutel, Lederrüstung+1, Krone des Kommandeurs und 800 Gold.
+
+## Session 09 – 30.11.2022 – Shawn
 
 Die Gruppe hat den Entschluss gefasst, große Teile der hiesigen Bevölkerung wegen ihrer mangelnden Freundlichkeit umzubringen. Diskussionsgegenstand ist weniger das Ob, sondern mehr das Wie. Der Plan ist, die Zombies des Totenbeschwörers zu nutzen, indem wir die Holzfäller von der Siedlung weglocken und ihnen das falsche Passwort geben, damit die Zombies sie angreifen. Shawn, Talula, Ruven und Xuin locken 24 Zombies und ein Skelett zu den Holzfällern, während Peter bei den Zwergen bleibt. 
 
