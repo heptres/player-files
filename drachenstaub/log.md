@@ -1,6 +1,25 @@
+#  Session 24 Log - 19.01.2023 –
+
+
+
+#  Session 23 Log - 22.12.2022 – Hendrik
+
+Kampf gegen Gwendolyn.
+Yennypha übernimmt die Domäne von Gwendolyn und befreit die gefangen Mädchen.
+Melitta geht mit der Gruppe zurück.
+Auf dem Rückweg wird die Gruppe von Betrunkenen angequatscht und Melitta eldritschblasts sich frei und teleportiert sich weg.
+
+
+
+#  Session 22 Log - 08.12.2022 – Sebastian
+
+Liebes Tagebuch von Robb, ich bins Robb.
+
+Angekommen in der Feenwelt, gelangen wir in das Schloss von Gwendolyn, in dem Schloss werden wir von **Hildolf Braun** dem Battler in Empfang genommen, der unseren Namen fragt, welche wir ihm darauf hin nennen. Außerdem bietet er uns etwas Essen an, **Robb isst etwas Salami**, **Stealy isst etwas Käse.** Nach dem wir etwa 3/2 Stunden gewartet haben, beschließen wir selbst nach der Dame des Hauses zu suchen.
+
 ## Session 21 Log – 24.11.2022 – Maxi
 
-Steely geht zum Spiielzeugladen um seine kugellagerkugeln aufzufrischen.
+Steely geht zum Spielzeugladen um seine kugellagerkugeln aufzufrischen.
 
 Kaeisha wird von Euler benachrichtigt, dieser ist unerfreut über das 'versehentliche' anzünden des Schiffes, wir sollen das schnellstmöglich klären. Ein Paket von Euler erscheint via Rabenpost, Sending Pergamente, eine Feder und ein Ohrring (unidentifiziert).
 
