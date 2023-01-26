@@ -1,6 +1,26 @@
-## Session 11 – 12.01.2023 – Ruven
+## Session 11 – 12.01.2023 – Flori
 
+Kapitän Valderack möchte den erfolgreichen deal begießen und wir werden nicht unter den Tisch getrunken. Dabei entdecke ich an Valderacks Handegelenk einen mechanischen Armreif und spreche ihn darauf an. Valderack weiß selbst nicht genau was es ist und ich rufe nach Shawn, dass er ihn sich mal anguckt; Shawn antwortet aber nicht.
 
+Talula ist eine Spaßverderberin und trinkt nicht mit. Stattdessen haut sie nach dem armen unschuldigen Lakritz und lehnt den gratis Armreif ab. Die Vampire lassen ihn trotzdem da und Talula wirft ihn über Bord. Lakritz holt ihn heimlich zurück.
+
+Nach ein paar Tagen verlassen wir die Astralebene. Das Letzte Mal war schlimmer, man gewöhnt sich daran.
+
+Am nächsten Tag erreichen wir den Handelsposten Tiberius-Terminal, einen Trabanten eines ausgehölten Feenplaneten.
+
+Xuin glaubt hier seinen Bekannten _Kruem'el Mors'ta_ zu finden.
+
+"Vorgath der Händler besorgt alles was man braucht", vielleicht finde ich bei dem ja ein verdunkeltes Goldfischglas.
+
+Shawn geht in einen Laden um Rowdy ein Upgrade zu verpassen und möchte dafür noch Germaniumlinsen besorgen.
+
+Bei Tayna Nyles kaufe ich ein verdunkelte Flasche und lasse eine Anzahlung für einen unbezahlten Praktikanten da.
+
+Währenddessen Kaufen Talula und Balthasar Vorräte; Xuin hat _Kruem'el Mors'ta gefunden und kauft seine berühmten schwarz und weiß Kekse (unten schwarz)._
+
+Um 15:00 gehe ich zu Tayna zurück und kaufe AD-0677(Andy).
+
+Shawn bestellt bei seinem alten Freund Jarrik die Infrarotrubine und fragt nach Aufträgen.
 
 ## Session 10 – 15.12.2022 – Shawn
 
