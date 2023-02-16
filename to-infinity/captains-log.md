@@ -1,3 +1,14 @@
+
+
+
+## Session 12 - 02.02.2022 – Xuin
+
+Nach dem wir die Einkäufe auf der Raumstation abgeschlossen haben, lassen wir den Abend gemütlich in **Jarrik's Bar** ausklingen, in der Bar sitzt ein Barde der ein paar Lieder spielt und in einer anderen Ecke findet ein Fauskampf-Tunier statt. **Xuin** und **Shawn** nehmen an dem Turnier teil. Nach vielleicht 10 Minuten endet der Kampf zwischen Xuin und dem Champion. Der Champion, ein halb Ork, gewinnt den Kampf. Danach steigt **Shawn** in den Ring, der gegen einen Halbling antritt und dadurch gewinnt, das er seinen Gegner in die Eier tritt. Zum Schluss steigt auch noch **Talula** in den Ring, welche kurzerhand den Champion besiegt und danach fröhlich weiter ihre Milch trinkt.
+
+**Jarrik** bietet Shawn an einen Job an für die Rubine für Rowdy und 250 Gold obendrauf. Dafür sollen wir von einem Lieferanten von Jarrik die Schulden eintreiben, da dieser Lieferant Jarrik nicht die gesamte Lieferung gebracht hat.
+
+Auf dem Rückweg zum Schiff lauert uns der Champion aus dem Bar Turnier auf, welche wir jedoch kurzerhand verprügeln.
+
 ## Session 11 – 12.01.2023 – Flori
 
 Kapitän Valderack möchte den erfolgreichen deal begießen und wir werden nicht unter den Tisch getrunken. Dabei entdecke ich an Valderacks Handegelenk einen mechanischen Armreif und spreche ihn darauf an. Valderack weiß selbst nicht genau was es ist und ich rufe nach Shawn, dass er ihn sich mal anguckt; Shawn antwortet aber nicht.
