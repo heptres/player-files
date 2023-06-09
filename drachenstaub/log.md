@@ -1,8 +1,18 @@
-#  Session 24 Log - 19.01.2023 –
+# Session 24 Log - 25.02.2023 – Hendrik
+
+Es ist _Freitag_.
+
+Die Gruppe beendet ihre Vorbereitungen für den Takedown von Euler. Gegen Mittag bekommt Steely als "Überlebender" ein Sending über den aktuellen Status und Instruktionen zum Treffpunkt mit Euler. Er soll in die Unterstadt von Fairhaven zu einem verlassenen Kanalisationszugang kommen. Kaeisha, Maelray, Robb und Goldfisch folgen Steely in diskretem Abstand und machen sich kurz vor der Ankunft unsichtbar.
+
+Der Zugang wird von einem "Kanalisationsarbeiter" –einem rauchenden Halbling– bewacht. Steely zeigt sein Sigel vor und wird durchgelassen, die Anderen schaffen es Geschickt sich durch die zufallende Tür hinter Steely zu schleichen. In den Kanalisationsgängen begegnen sie mehreren Bergarbeitern und Klempnern in Stadtuniform. Zwei Bergarbeiter stolpern über Maelrays Schwanz und entdecken beinahe Robb. Durch ihre Unsichtbarkeit bleiben sie unentdeckt.
+
+Steely gefolgt von den Unsichtbaren betritt das Büro von Euler, mehrere seiner "Mitarbeiter" bauen ein Labor auseinander und verlagern die Einzelteile woanders hin. Steely übergibt die Box und ein Kampf bricht aus mit Euler und seinen Bodyguards. Nach fast einer Minute bläst Robb Euler den Kopf weg und es bleibt nur noch ein Bodyguard übrig.
+
+# Session 24 Log - 19.01.2023 – Hendrik
 
 
 
-#  Session 23 Log - 22.12.2022 – Hendrik
+# Session 23 Log - 22.12.2022 – Hendrik
 
 Kampf gegen Gwendolyn.
 Yennypha übernimmt die Domäne von Gwendolyn und befreit die gefangen Mädchen.
@@ -11,7 +21,7 @@ Auf dem Rückweg wird die Gruppe von Betrunkenen angequatscht und Melitta eldrit
 
 
 
-#  Session 22 Log - 08.12.2022 – Sebastian
+# Session 22 Log - 08.12.2022 – Sebastian
 
 Liebes Tagebuch von Robb, ich bins Robb.
 
@@ -37,7 +47,7 @@ Der Ork hat die Polizei gerufen und wir müssen hier jetzt weg. Kaeisha ist nirg
 
 Unterwegs verwandelt sich Robb in eine Katze, landet dabei aber leider in Euninchenkot. 
 
-Als wir betrunkenen Sportfans entgegenkommen trennen wir un um unsere Verfolger abzuschütteln. Remilia charged durch die Menge und ich nehme eine holprige Seitenstraße. Katzenrobb krallt sich in die Beine und hangelt sich von Fan zu Fan. 
+Als wir betrunkenen Sportfans entgegenkommen trennen wir un um unsere Verfolger abzuschütteln. **Remilia** charged durch die Menge und ich nehme eine holprige Seitenstraße. Katzenrobb krallt sich in die Beine und hangelt sich von Fan zu Fan. 
 
 Remilia zieht und durch den Hintereingang in eine Kneipe und wir kommen ungesehen nach Hause. Robb wird auf dem Tresen in Bier und Abwaschwasser gebadet.
 
@@ -73,19 +83,21 @@ Nach dem wir einige Zeit am Tisch im Kasino verbracht haben und die Zeit wie mag
 
 Nachdem sich Gewndolyn wieder von unserem Tisch entfernt hat, beginnen wir zu diskutieren wie wir jetzt weiter machen. Doch **Gwendolyn** scheint mit zu bekommen, dass wir immer noch sehr am diskutieren sind und wirft insbesondere Steely einen sehr kritischen Blick zu, doch Steely, charmant wie er ist, winkt ihr nur fröhlich zu. Um zu verstehen was in dieser Gwendolyn vor sich geht wirkt **Steely** *Detect Thoughts* auf **Gwendolyn** , sie denkt: "Noch könnte diese Gruppe für mich nützlich sein", als Steely jedoch versucht tiefer in Gedanke vorzudringen, bemerkt Gwendolyn das und findet das gar nicht lustig auf jeden Fall wird sie darauf hin deutlich unfreundlicher uns gegenüber. Nach etwas hitzigen hin- und her **Remilia** *droht* **Gwendolyn** sie solle uns verraten was hier vor sich geht. Doch **Gwendolyn** geht nicht darauf ein und wirkt *charm* auf **Remilia worauf Remilia** so friedlich wird wie ich sie eigentlich noch nie erlebt habe.
 
-Da wir aber alle die normale Remilia viel lieber mögen wirkt **Stealy** *Dispel Magic* auf **Remilia**, wodurch der Effekt von *Charm* endet, jedoch auch die Wirkung von Remilias Zaubertattoo, in dem sie ihre Axt verstaut hat. So kommt es das Remilias risen Axt plötzlich in ihren Händen auftaucht. Remilia, wieder bei klaren und normalen sinnen, freut sich so sehr ihre Axt plötzlich wieder in den Händen zu halten (oder ärgert sie sich, dass Steely mit Dispel Magic ihr magisches Tattoo kaputt gemacht hat? Da bin ich mir nicht ganz sicher, ich bin nicht so gut darin so etwas richtig zu deuten). Naja in dem Kampf habe ich (**Robb**) die grandiose Idee eine kleine Fee zu beschwören mittels *Summon Fey*. Am Ende des Kampfes will Gewendolyn einfach nicht aufgeben, auch nicht auf die Drohungen von Remilia . So kommt es, **Remilia** haut **Gewendolyn** *bewusstlos.* Doch noch bevor Gwewndolyn K.O. geht, konnte sie einen Zauber wirken worauf hin die Gäste rausgehen und die Bediensteten in die Küche gehen. Doch dann traue ich meinen Augen nicht, aus diese komischen Gwendolyn ist plötzlich ein junges Mädchen geworden, also an der Stelle wo Gwewndolyn bewusstlos zu Boden gegangen ist, liegt jetzt ein junge Frau.
+Da wir aber alle die normale **Remilia** viel lieber mögen wirkt **Stealy** *Dispel Magic* auf **Remilia**, wodurch der Effekt von *Charm* endet, jedoch auch die Wirkung von Remilias Zaubertattoo, in dem sie ihre Axt verstaut hat. So kommt es das Remilias risen Axt plötzlich in ihren Händen auftaucht. Remilia, wieder bei klaren und normalen sinnen, freut sich so sehr ihre Axt plötzlich wieder in den Händen zu halten (oder ärgert sie sich, dass Steely mit Dispel Magic ihr magisches Tattoo kaputt gemacht hat? Da bin ich mir nicht ganz sicher, ich bin nicht so gut darin so etwas richtig zu deuten). Naja in dem Kampf habe ich (**Robb**) die grandiose Idee eine kleine Fee zu beschwören mittels *Summon Fey*. Am Ende des Kampfes will Gewendolyn einfach nicht aufgeben, auch nicht auf die Drohungen von **Remilia** . So kommt es, **Remilia** haut **Gewendolyn** *bewusstlos.* Doch noch bevor Gwewndolyn K.O. geht, konnte sie einen Zauber wirken worauf hin die Gäste rausgehen und die Bediensteten in die Küche gehen. Doch dann traue ich meinen Augen nicht, aus diese komischen Gwendolyn ist plötzlich ein junges Mädchen geworden, also an der Stelle wo Gwewndolyn bewusstlos zu Boden gegangen ist, liegt jetzt ein junge Frau.
 
-Die Junge Frau stellt sich als **Karina** vor. Außerdem gibt sie uns den Hinweis, dass wir die Hexe (ich glaube damit ist diese olle Gewendolyn gemeint) finden können wenn wir durch die Küche gehen. Das probieren wir auch gleich, doch die Tür zur Küche ist verschlossen, doch das Problem behebt Remilia sehr schnell mit ihrer Axt. Also gehen wir in die Küche, doch die Küche ist leer. Die Fee die ich (Robb) im Kampf beschworen hatte, erklärt uns: Das ganze Casino liegt in der Feen Ebene und wir können die Hexe hier nicht verfolgen, sondern müssen außen rum. Die Fee bietet uns einen deal an, uns eventuell zu helfen. Als Geschäft bietet Steely der Fee **Roofies** an, die Fee probiert und schläft ein und fängt an im Schlaf zu Reden und hält Steely für ihren Toaster. Also die Fee ist wohl doch keine so große Hilfe mehr...
+Die Junge Frau stellt sich als **Karina** vor. Außerdem gibt sie uns den Hinweis, dass wir die Hexe (ich glaube damit ist diese olle Gewendolyn gemeint) finden können wenn wir durch die Küche gehen. Das probieren wir auch gleich, doch die Tür zur Küche ist verschlossen, doch das Problem behebt **Remilia** sehr schnell mit ihrer Axt. Also gehen wir in die Küche, doch die Küche ist leer. Die Fee die ich (Robb) im Kampf beschworen hatte, erklärt uns: Das ganze Casino liegt in der Feen Ebene und wir können die Hexe hier nicht verfolgen, sondern müssen außen rum. Die Fee bietet uns einen deal an, uns eventuell zu helfen. Als Geschäft bietet Steely der Fee **Roofies** an, die Fee probiert und schläft ein und fängt an im Schlaf zu Reden und hält Steely für ihren Toaster. Also die Fee ist wohl doch keine so große Hilfe mehr...
 
 Naja, nach dem wir **Karina versprechen sie sicher nach Hause zurück zu bringen**, erzählt uns Karina, dass **Wander** einen Ring hat, mit dem wir durch die Küche zu der Hexe kommen können. (Anmerkung: Ich glaube Wander war diese alte Hexe der wir vor einiger Zeit den Kopf eingeschlagen haben). Wenn wir stattdessen außen rum gehen, befindet sich wohl auf einem Handelsschiff in der Oberstadt, der andere Eingang zum Haus der Hexe.
 
-Die Fee stellt sich Steely als "**Yennpha**" vor, den sie jetzt für ein Auto hält. So langsam kommt auch richtig Party Stimmung auf. Also zünden wir das Casino an und verlassen es. Doch beim rausgehen begegnen wir noch den beiden Türsteher Orks, Remilia schubst einen der beiden Orks von der Insel. Steely überzeugt mit *suggestion* den verbleibenden Ork, dass er in der Hütte mit der Chefin reden muss. Danach verbarrikadieren wir die Tür hinter dem Ork und legen noch mehr Feuer. Dann befreit Remilia noch die Robben die die Insel ziehen.
+Die Fee stellt sich Steely als "**Yennpha**" vor, den sie jetzt für ein Auto hält. So langsam kommt auch richtig Party Stimmung auf. Also zünden wir das Casino an und verlassen es. Doch beim rausgehen begegnen wir noch den beiden Türsteher Orks, **Remilia** schubst einen der beiden Orks von der Insel. Steely überzeugt mit *suggestion* den verbleibenden Ork, dass er in der Hütte mit der Chefin reden muss. Danach verbarrikadieren wir die Tür hinter dem Ork und legen noch mehr Feuer. Dann befreit **Remilia** noch die Robben die die Insel ziehen.
 
 In der Ferne hört man jetzt auch schon die Polizei, ich habe keine Ahnung was davon alles in einen normalen Kasino besuch fällt, aber das war wohl einer der besten Abende meines Lebens!
 
 ## Session 18 Log – 13.10.2022 – Max
 
-Nach dem Treffen im Krawall macht sich Kaeisha auf der Suche nach seiner Neffin, auf zu dem _Cafe Korranberg_ in dem sie sich zuvor mit Euler getroffen hatten. Dort begegnet er nur ihrer Kollegin. Der Höflichkeit halber bestellt er einen Tee und befragt diese. Anscheinend ist **Melitta** verschwunden, vor 3 Tagen das letzte mal gesehen worden und sie macht sich Sorgen.
+**Remilia** und **Revelio** reden über den Kredit für die Bar, er macht sich Sorgen, worin sich **Remilia** verwickelt, um das Geld für die Bar zu besorgen.
+
+Nach dem Treffen im Krawall macht sich **Kaeisha** auf der Suche nach seiner Neffin, auf zu dem _Cafe Korranberg_ in dem sie sich zuvor mit Euler getroffen hatten. Dort begegnet er nur ihrer Kollegin. Der Höflichkeit halber bestellt er einen Tee und befragt diese. Anscheinend ist **Melitta** verschwunden, vor 3 Tagen das letzte mal gesehen worden und sie macht sich Sorgen.
 
 Unterdessen im Krawall trifft **Robb** nach seinen "Erledigungen" wieder auf die Gruppe, was er getan hat bleibt dem Rest (vielleicht auch ihm selbst) vorenthalten. **Remilia** dreht ihm kurzer Hand die gefälschte Einladung an, sodass jeder nun eine besitzt. **Kaeisha** stößt nun ebenfalls zur Gruppe und es stellt sich heraus, dass seine Nichte das Mädchen zu sein scheint, nach welchem **Remilia** die ganze Zeit gesucht hatte. Der geplante Eintritt ins Casino steht nun umittelbar bevor, doch erscheint ein bisher ungeahntes Problem, was trägt man zu so einem Anlass und noch viel wichtiger, kann **Remilia** ihre Axt mit hinein nehmen? Da sie sich nicht von ihr trennen will, besucht sie einen alten Freund **Pietro** und "bittet" ihn darum, dass er ihr die Axt mittels Magie auf den Nacken tätowiert. Nach kurzer "Verhandlung" beschließen die beiden einen Tausch, das Tattoo für einen Anteil der Residuum Lieferung. **Steely** besucht danach mit **Robb** und **Remilia** seinen Freund aus Kriegszeiten, **Cutty** den Schneider (sein Beruf), um die teilweise doch sehr nötige Kleidung einzukaufen, um im Casino nicht allzu sehr aufzufallen. Ein erfolgreiches Unterfangen und so sind wir eingedeckt genug für das Casino.
 
@@ -93,10 +105,10 @@ Nach einigen Abschätzungen finden wir den Ort, an dem das Bootcasino anlegt, un
 
 Ein seltsamer Anblick bildet sich, denn bis auf die üblichen Spieltische befindet sich auch neben weiteren ungereimtheiten ein Soldat in längst vergangener Uniform und der Zwiebackzauberer der das Gesicht der Kriegsrationen seit den ersten Kriegsjahren ist unter den Gästen, doch setzen wir uns an einen der Tische und spielen.
 
-Uns werden Getränke gebracht, jeder das, was er mag, und wir spielen. Nach gefühlten 15 Minuten der Spielzeit fällt Stealy auf, dass wir eigentlich bereits 3 Stunden am Spielen sind und wundert sich warum wir nach den ganzen Getränken noch nicht das Stille Örtchen besuchen mussten, starrt dabei zunächst nur in verwirrte Gesichter der Gruppe.
-Robb beschließt dem Abend auch einen gewissen Kick zu verleihen und zieht sich ins Bad zurück. Eine Dosis Drachenstaub später und einige Minuten des Deliriums fühlt er sich irgendwie anders als gewohnt in diesem Zustand und muss plötzlich ganz dringend. Auch Remilia und Kaeisha ziehen sich dorthin kurz zurück, bei ihnen scheint aber alles normal zu sein.
+Uns werden Getränke gebracht, jeder das, was er mag, und wir spielen. Nach gefühlten 15 Minuten der Spielzeit fällt **Stealy** auf, dass wir eigentlich bereits 3 Stunden am Spielen sind und wundert sich warum wir nach den ganzen Getränken noch nicht das Stille Örtchen besuchen mussten, starrt dabei zunächst nur in verwirrte Gesichter der Gruppe.
+Robb beschließt dem Abend auch einen gewissen Kick zu verleihen und zieht sich ins Bad zurück. Eine Dosis Drachenstaub später und einige Minuten des Deliriums fühlt er sich irgendwie anders als gewohnt in diesem Zustand und muss plötzlich ganz dringend. Auch **Remilia** und Kaeisha ziehen sich dorthin kurz zurück, bei ihnen scheint aber alles normal zu sein.
 
-Wir beschließen nun den Einsatz zu erhöhen. Ebenfalls nimmt keiner von uns was von den Getränken zu sich. Bei näherem Hinsehen wirken die Angestellten auch nicht mehr so fröhlich und höflich wie zuvor, eher als seien sie fast mechanisch. Remilia spricht eine der Angestellten  an, eine junges Mädchen, sie meint sie von den Vermisstenpostern wiederzuerkennen, und nennt sie beim Namen, **Sabine**, kurz scheint sie darauf zu reagieren und **Remilia** beschließt sie weiterhin **Sabine** zu nennen.
+Wir beschließen nun den Einsatz zu erhöhen. Ebenfalls nimmt keiner von uns was von den Getränken zu sich. Bei näherem Hinsehen wirken die Angestellten auch nicht mehr so fröhlich und höflich wie zuvor, eher als seien sie fast mechanisch. **Remilia** spricht eine der Angestellten  an, eine junges Mädchen, sie meint sie von den Vermisstenpostern wiederzuerkennen, und nennt sie beim Namen, **Sabine**, kurz scheint sie darauf zu reagieren und **Remilia** beschließt sie weiterhin **Sabine** zu nennen.
 
 ## Session 17 Log – 03.10.2022 – Suna
 
@@ -120,7 +132,7 @@ Steely und **Kaeisha** treffen sich mit Euler und überbringen die Zeichnung und
 
 Zusätzlich gibt es eine weitere Residuum-Lieferung. **Kaeisha**, Steely und Rob sollen sich um diese kümmern, da Euler von einer Lücke in der Sicherheit erfahren hat.
 
-Nach dem Treffen trennt sich Remilia von den Anderen und eilt schnell zu Vesta um Bericht zu erstatten.
+Nach dem Treffen trennt sich **Remilia** von den Anderen und eilt schnell zu Vesta um Bericht zu erstatten.
 
 Steely geht nach Hause, **Kaeisha** verschwindet ins Krawall.
 
@@ -128,15 +140,15 @@ Remilia schmiedet mit Vesta einen Plan, Gwendolyns Laden zu sabotieren.
 
 Im Krawall trifft **Kaeisha** einen Gentleman, Arial Knickercocker, der ein Handelsgeschäft für Sanitär- und Haushaltswaren und Inneneinrichtung in der Stadt eröffnen will.
 
-**Kaeisha** zeigt Remilia die Einladung für Gwendolyns Casino. Sie will am nächsten Tag früh los um jemanden zu finden, der die Einladung duplizieren kann.
+**Kaeisha** zeigt **Remilia** die Einladung für Gwendolyns Casino. Sie will am nächsten Tag früh los um jemanden zu finden, der die Einladung duplizieren kann.
 
 Am nächsten Tag:
 
-Steely will mit Remilia reden, doch er verpasst sie ganz knapp.
+Steely will mit **Remilia** reden, doch er verpasst sie ganz knapp.
 
 Remilia besucht ihren alten Kumpel Bruno, ein großes Talent in Sachen Fälschung. Dieser kann die Fälschung der Einladung perfekt gestalten.
 
-Steely versucht Remilia und **Kaeisha** zu verkuppeln.
+Steely versucht **Remilia** und **Kaeisha** zu verkuppeln.
 
 
 ## Session 16 Log – 15.09.2022 – Flori
@@ -171,7 +183,7 @@ Die Gruppe beeilt sich und will die Ladung in der Kanalisation verfolgen. **Robb
 
 **Robb** bindet ein Seil an das Paket und möchte den Fallschacht herunterklettern. **Steely** bindet sein Seil zum herablassen an der Reling fest, währendessen springt **Remilia** **Robb** den Schacht hinter. Beide landen in einem Sammelbecken (9dmg). Sie schwimmen zum Beckenrand. **Robb** heilt **Remilia**, sie haut ihn. 
 
-**Steely** und **Kaeisha** levitieren den Schacht herunter, dabei teedippt er Kaeisha im Sammelbecken. **Steely** landet trocken am Beckenrand und wird von Remilia reinegeschubst. **Kaeisha** säubert sich mit Zaubertrick.
+**Steely** und **Kaeisha** levitieren den Schacht herunter, dabei teedippt er Kaeisha im Sammelbecken. **Steely** landet trocken am Beckenrand und wird von **Remilia** reinegeschubst. **Kaeisha** säubert sich mit Zaubertrick.
 
 Sie verfolgen das Paket zu einem weiteren Sammelbecken, wo Halblinge die Paket aus dem Abwasser fischen. 
 **Remilia** schüchtert die Halbling für Informationen ein, sie rufen **Kapesch** deen Echsenmenschen Vorarbeiter der sich mit **Remilia** fast in die Haare kommt, bis **Robb** und **Steely** das Tatoo zeigen. **Kapesch** bringt sie zur Dusche.
@@ -190,7 +202,7 @@ Am nächsten Morgen geht **Remilia** Frühstück kaufen und **Remilia, Kaeisha
 
 Im Laden von **Vesta** bekommen sie den Auftrag, die Residuumlieferung, die um 16 Uhr im *Flughafeniertel* stattfinden soll, zu beschatten. Weiter sollen sie herausfinden wer das Residuum liefert und wer es kauft, für 25gp pro Person und Information.
 
-Vor dem Hanger in dem die Lieferung ankommen soll kauft Remilia der Gruppe Hotdogs und Kaffee. Robb verwandelt Boomeran in eine Taube mit Rattenschwanz und bezieht einen Beobachtzungsposten eine Etage höher zusammen mit **Kaeisha**. **Steely** und **Remilia** warten unten vor dem Hanger. **Remilia** bekommt von einer alten Dame eine Flyer in die Hand gedrückt, sie sucht ihre halbelfen Tochter . **Remilia** steckt den Flyer eine un will ausschau halten.
+Vor dem Hanger in dem die Lieferung ankommen soll kauft **Remilia** der Gruppe Hotdogs und Kaffee. Robb verwandelt Boomeran in eine Taube mit Rattenschwanz und bezieht einen Beobachtzungsposten eine Etage höher zusammen mit **Kaeisha**. **Steely** und **Remilia** warten unten vor dem Hanger. **Remilia** bekommt von einer alten Dame eine Flyer in die Hand gedrückt, sie sucht ihre halbelfen Tochter . **Remilia** steckt den Flyer eine un will ausschau halten.
 
 Als das Beibot mit der Residuumladung ankommt, schleichen sich **Robb** als Ratte, **Kaeisha** mit PWAT, **Steely** als Kontrolleur verkleidet mit **Remilia** als Begelitung in den Hanger. **Julia** versucht sich durch das Büro zugriff zu verschaffen, schafft es aber nicht die Rezeptionistin zu überlisten. Danach schleicht sie sich durch eine Nebentür in den Hanger.
 
@@ -204,18 +216,18 @@ Alle schleichen sich aus dem Hanger raus.
 
 ## Session 7 Log – 05.05.2022
 
-- Kaeisha findet den Eingang zu Eulers Testkammer, kann aber keinen Mechanisms zum öffnen finden. Remilia schiebt die Tür mit Kraft auf, nachdem sie versucht hat sie einzutreten.
-- Als die Tür halboffen ist, wird Remilia geblendet und das Skelett im Labor greift an.
+- Kaeisha findet den Eingang zu Eulers Testkammer, kann aber keinen Mechanisms zum öffnen finden. **Remilia** schiebt die Tür mit Kraft auf, nachdem sie versucht hat sie einzutreten.
+- Als die Tür halboffen ist, wird **Remilia** geblendet und das Skelett im Labor greift an.
 - Nachdem die Gruppe das Skelett besiegt hat durchsuchen sie das Labor. Sie finden. Sie finden Phiolen mit in starker Säure gelöstem Residuum, sowie unterschiedlichste Chemikalien, Alkohol, Säuren/Basen, Aceton, ... in Reagenzgläsern.
-- Kaeisha untersucht den Türmechanismus zur Kanalisation und verschließt diesen Wieder. Remilia überzeugt Robb den Kristall an der Tür nach oben anzufassen, dieser löst aus und vergiftet Robb. Kaeisha steckt Eulers Poesiealbum ein. Steely nimmt den Sprachenschädel mit und Robb 4 Gläser mit Residuum in unterschiedlicher Körnung. Remilia steckt die Keule (d8) +1 ein.
-- Remilia zerstört die Bodenplatte, die als Zugang von oberhalb der Testkammer dient.
+- Kaeisha untersucht den Türmechanismus zur Kanalisation und verschließt diesen Wieder. **Remilia** überzeugt Robb den Kristall an der Tür nach oben anzufassen, dieser löst aus und vergiftet Robb. Kaeisha steckt Eulers Poesiealbum ein. Steely nimmt den Sprachenschädel mit und Robb 4 Gläser mit Residuum in unterschiedlicher Körnung. **Remilia** steckt die Keule (d8) +1 ein.
+- **Remilia** zerstört die Bodenplatte, die als Zugang von oberhalb der Testkammer dient.
 - Oberhalb der Teskammer ist ein verlassenes Einfamilienhaus. Es ist verstaubt und ausgeräumt, bis auf schwere und sperrige Möbel. Es führen nur Fußspuren von der im Rahmen mit Stein verstärkten und mit einem Feuer-Granat gesicherten Tür zur Luke ins Labor.
-- Die Gruppe durchsucht das Haus und wartet in der Stube. Robb kocht Tee für sich und die anderen. Steely und Remilia spielen Karten, wobei Steely durch geschicktes Schummeln gewinnt. Kaeisha liest Eulers Poesiealbum. Sie rasten kurz.
+- Die Gruppe durchsucht das Haus und wartet in der Stube. Robb kocht Tee für sich und die anderen. Steely und **Remilia** spielen Karten, wobei Steely durch geschicktes Schummeln gewinnt. Kaeisha liest Eulers Poesiealbum. Sie rasten kurz.
 - Nach anderthalb Stunden explodiert etwas mehrfach in der Testkammer, das Haus stürzt ein und gelangt in Brandt.
 - Die Gruppe flieht, um sich vor der Feuerwehr zu verstecken, zu Darials altem Versteck, das er gerade ausräumt. Sie helfen im Kisten in seine neue Wohnung zu tragen. Seine Mutter lebt auch dort.
 - Vesta möchte Darials Unterschlupf als Stützpunkt verwenden.
 - Die Gruppe erstattet Vesta Bericht. Sie bekommen 50pp für das Residuum und das Poesiealbum, sowie 100pp für die Keule +1.
-- Nachdem sie bezahlt wurden, streiten sich Remilia und Kaeisha, wer das Gold für die Keule bekommt. Steely gibt den Sprachenschädel an Kaeisha ab.
+- Nachdem sie bezahlt wurden, streiten sich **Remilia** und Kaeisha, wer das Gold für die Keule bekommt. Steely gibt den Sprachenschädel an Kaeisha ab.
 
 <!-- -->
 

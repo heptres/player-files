@@ -1,5 +1,10 @@
+## Session 13 - 16.02.2022 – Hendrik
 
+Petite Pete fängt die Gruppe am Pier kurz vor dem Schiff ab und übergibt ihnen ein Rezept, im Rezept stehen Hinweise für den Auftrag von Jarek, Galgoz die Schatulle abzunehemen und ihn zusammenzuschlagen, drin.
 
+Die Gruppe macht sich auf den Weg zu seinem Versteck außerhalb der Stadt. Ein Kampf bricht aus und Galgoz flieht durch die Kanalisation. Einer seiner Podling bleibt zurück und wird von Xuin eingefroren und in ein Fass gesperrt. 
+
+Die Gruppe macht einen Deal mit  
 
 ## Session 12 - 02.02.2022 – Xuin
 
