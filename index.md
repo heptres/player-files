@@ -2,11 +2,13 @@
 
 ### Allgemeines
 
-Hier sind die Hausregel aufgelistet.
+Hier ist unser Verhalten am Tisch und mit anderen Spielerinnen aufgeführt.
 
-[Sozialer Vertrag](./sozialvertrag.md)
+##### [Sozialer Vertrag](./sozialvertrag.md)
 
-[Hausregeln](./hausregeln.md)
+Hier sind die Hausregeln aufgelistet.
+
+##### [Hausregeln](./hausregeln.md)
 
 <!-- 
 ### Too Infinty
@@ -17,11 +19,11 @@ Hier liegt der Primer und sonstige Informationen zu der **Too Infinity Campagne*
 
 [Captains Log](./to-infinity/captains-log.md)
 -->
-list=PLb39x-29puaoZke5BVk7fjyyyjWXcxCu1&index=1&pp=iAQB
+
 ### Drachenstaub (verschoben auf Foundry)
 
-<u>Log</u>
+<u>Log[^1]</u>
 
-!!! direkter Link funktioniert weiterhin
+[^1]: direkter Link funktioniert weiterhin
 
 <!-- [Log](./drachenstaub/log.md) -->
