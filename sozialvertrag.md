@@ -14,11 +14,11 @@ Nehmt der Spielleitung so viel Arbeit ab, wie ihr könnt. Seid pünktlich, bring
 
 **Ergreife die Initiative:** Arbeitet mit den anderen Spielerinnen zusammen, um deine eigenen Ziele zu setzen und deine eigenen Spaß zu haben, anstatt darauf zu warten, dass er zu dir kommt. Die Spielwelt ist voller Abenteuer, Schätze, Geheimnisse und Rätsel, geh voran und finde, was dich begeistert.
 
-**Fragen stellen:** Informationen sind das Lebenselixier des Spiels. Hole dir so viele Informationen wie möglich. Durchsuche Räume, experimentiere, befrage  NSCs usw. Benutze taktische Vielfalt: Behandel den Schauplatz der Kampagne so, als wäre er real und nutze die Welt zu deinem Vorteil. Kein Detail ist nur "Geschmacksache".
+**Stelle Fragen:** Informationen sind das Lebenselixier des Spiels. Hole dir so viele Informationen wie möglich. Durchsuche Räume, experimentiere, befrage  NSCs usw. Benutze taktische Vielfalt: Behandel den Schauplatz der Kampagne so, als wäre er real und nutze die Welt zu deinem Vorteil. Kein Detail ist nur "Geschmacksache".
 
 **Plane voraus:** Entwirf Pläne, die so clever und hieb- und stichfest sind, dass der Erfolg fast sicher ist, sodass ihr und nicht eure Würfel euer Schicksal bestimmen. Nutze Psychologie, Magie, Ausrüstung, NSCs und die Umgebung, um Hindernisse zu überwinden, und nicht deine Fähigkeitspunkte.
 
-**Denke voraus:** Denken Sie daran, dass deine Handlungen langfristige Folgen haben können und NSCs sich an deine Taten erinnern werden. Unüberlegte oder impulsive Handlungen können sich rächen.
+**Denke voraus:** Denke daran, dass deine Handlungen langfristige Folgen haben können und NSCs sich an deine Taten erinnern werden. Unüberlegte oder impulsive Handlungen können sich rächen.
 
 **Kämpfe schmutzig:** Vermeide es, in Kämpfe zu geraten, bei denen du nicht die Oberhand hast, denn in Kämpfen kann alles passieren und der Wille der Würfel mag nicht auf deiner Seite stehen. Kämpfe sind weder ausgeglichen noch fair, wenn du also kämpfen musst, dann kämpfe, als ob dein Leben davon abhängt.
 
