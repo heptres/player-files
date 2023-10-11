@@ -2,13 +2,13 @@
 
 ### Allgemeines
 
-Hier ist unser Verhalten am Tisch und mit anderen Spielerinnen aufgeführt.
+> Hier ist unser Verhalten am Tisch und mit anderen Spielerinnen aufgeführt.
+> 
+> ##### [Sozialer Vertrag](./sozialvertrag.md)
 
-##### [Sozialer Vertrag](./sozialvertrag.md)
-
-Hier sind die Hausregeln aufgelistet.
-
-##### [Hausregeln](./hausregeln.md)
+> Hier sind die Hausregeln aufgelistet.
+>
+> ##### [Hausregeln](./hausregeln.md)
 
 <!-- 
 ### Too Infinty
