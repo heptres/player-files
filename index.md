@@ -2,7 +2,6 @@
 
 ### Allgemeines
 
-<<<<<<< HEAD
 > ##### [Sozialer Vertrag](./sozialvertrag.md)
 > 
 > Hier ist unser Verhalten am Tisch und mit anderen Spielerinnen aufgeführt.
@@ -14,15 +13,6 @@
 > ##### [Session 0](./session0.md)
 >
 > Alles was wir vor der eigentlichen Runde einmal absprechen müssen.
-=======
-> Hier ist unser Verhalten am Tisch und mit anderen Spielerinnen aufgeführt.
-> 
-> ##### [Sozialer Vertrag](./sozialvertrag.md)
-
-> Hier sind die Hausregeln aufgelistet.
->
-> ##### [Hausregeln](./hausregeln.md)
->>>>>>> d1a888eaf99fedeaf46ae09a00753ded04cacfa9
 
 <!-- 
 ### Too Infinty
