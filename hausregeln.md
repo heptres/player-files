@@ -16,9 +16,9 @@ Während ein Charakter dem Zustand der Erschöpfung unterworfen ist, erleidet er
 
 **Erschöpfung und Todes-Rettungswurf.** Wenn ein Charakter das erste Mal einen Todes-Rettungswurf nicht besteht, nachdem er auf 0 HP gefallen ist, erhält er eine Stufe Erschöpfung.
 
-**Ausdauer-X Rettungswurf.** Ein Ausdauer-X Rettungswurf, bei dem X eine Zahl ist, hat einen SG vom Maximum von X oder dem halben erlittenen Schaden.
+**Attributs-X Rettungswurf.** Ein Attributs-X Rettungswurf, bei dem X eine Zahl ist, hat einen SG vom Maximum von X und dem halben erlittenen Schaden.
 
-Nimmt eine Kreatur bei einer Tätigkeit Schaden, und will diese ohne Unterbrechung ausführen, muss ein Ausdauerrettungswurf gemacht werden. Der SG liegt üblicherweise bei 10, kann aber vom Spielleiter je nach Schwierigkeit der Tätigkeit angepasst werden.
+Nimmt eine Kreatur bei einer Tätigkeit Schaden, und will diese ohne Unterbrechung ausführen, muss ein Attributsrettungswurf gemacht werden. Der SG liegt üblicherweise bei 10, kann aber vom Spielleiter je nach Schwierigkeit der Tätigkeit angepasst werden.
 
 Konzentrations- oder Brennendwürfe sind Ausdauer-10 Rettungswürfe.
 
@@ -29,6 +29,14 @@ Konzentrations- oder Brennendwürfe sind Ausdauer-10 Rettungswürfe.
 **Gruppenfertigskeitswürfe.** Wenn mehr als ein Charakter eine Fertigkeit ausüben möchte, dann macht der Initiator seinen Wurf mit dem höchsten Bonus aller am Wurf beteiligten und erhält Vorteil für jeden weiteren Helfer. Es gelten die Regeln für [Vorteil](#vorteil-und-nachteil).
 
 **Fertigkeitswürfe mit Werkzeugen** Macht ein Charakter einen **geübten** Fertigkeitswurf mit Werkzeugen in denen er auch **geübt** ist, kann dieser mit Vorteil gemacht werden. Siehe _XGE p78_
+
+
+| Fertigkeit | mit Werkzeug | Resultat                             |
+| :--------- | :----------- | :----------------------------------- |
+| geübt      | geübt        | Vorteil                              |
+| geübt      | ungeübt      | normaler Wurf ohne Fertigkeitswürfel |
+| ungeübt    | geübt        | normaler Wurf ohne Fertigkeitswürfel |
+| ungeübt    | ungeübt      | Nachteil ohne Fertigkeitswürfel      |
 
 ## Inspiration
 
