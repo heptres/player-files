@@ -1,3 +1,7 @@
+<head>
+  <link rel="shortcut icon" href="https://media.dndbeyond.com/images/web/favicon.png" />
+</head>
+
 # Session 0
 
 ## Die Kampagne

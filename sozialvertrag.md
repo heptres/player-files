@@ -1,3 +1,7 @@
+<head>
+  <link rel="shortcut icon" href="https://media.dndbeyond.com/images/web/favicon.png" />
+</head>
+
 # Spieler-Pflichten
 
 ## Assistiere dem GM
