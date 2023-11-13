@@ -35,30 +35,59 @@ Konzentrations- oder Brennendwürfe sind Ausdauer-10 Rettungswürfe.
 **Fertigkeitswürfe mit Werkzeugen** Macht ein Charakter einen **geübten** Fertigkeitswurf mit Werkzeugen in denen er auch **geübt** ist, kann dieser mit Vorteil gemacht werden. Siehe _XGE p78_
 
 
-| Fertigkeit | mit Werkzeug | Resultat                             |
-| :--------- | :----------- | :----------------------------------- |
-| geübt      | geübt        | Vorteil                              |
-| geübt      | ungeübt      | normaler Wurf ohne Fertigkeitswürfel |
-| ungeübt    | geübt        | normaler Wurf ohne Fertigkeitswürfel |
-| ungeübt    | ungeübt      | Nachteil ohne Fertigkeitswürfel      |
+| **Fertigkeit** | **mit Werkzeug** | **Resultat**                         |
+| :------------- | :--------------- | :----------------------------------- |
+| geübt          | geübt            | Vorteil                              |
+| geübt          | ungeübt          | normaler Wurf ohne Fertigkeitswürfel |
+| ungeübt        | geübt            | normaler Wurf ohne Fertigkeitswürfel |
+| ungeübt        | ungeübt          | Nachteil ohne Fertigkeitswürfel      |
 
 ## Inspiration
 
-Jeder Spieler hat eine Pool von bis zu 5 Inspirationswürfeln. Ein Inspirationswürfel kann einmalig als Bonus eines **d20**-Wurfes geworfen werden. Dies kann vor oder nach dem Verkünden des Ergebnisses für einen eigenen **d20**-Wurf eingesetzt werden. Um einen Wurf eines anderen Spielers mit einem Inspirationswürfel zu unterstützen, muss dies vor dem Wurf angekündigt werden. Ein Wurf kann durch mehr als einen Inspirationswürfel unterstützt werden, jeder Spieler darf aber nur einen Würfel zu einem Wurf beisteuern.  
-
-### Inspirationswürfel
-
-Die Augenzahl eines Inspirationswürfels entspricht dem des aktuellen Kompetenzwürfels eines Spielers. Erreicht ein Spieler ein Level, auf dem sich die Augenzahl der Kompetenzwürfels erhöhen würde, dann erhöhen sich alle Würfel im Inspirationspool des Spielers auf die neue Augenzahl.
+Jeder Spieler hat eine Pool von bis zu 5 Inspirationspunkten. Inspirationspunkte werden für positives Verhalten im Spiel vergeben und können für Spielvorteile ausgegeben werden.
 
 ### Inspiration bekommen
 
-Am Ende jeder Session wird von den Spieler abgestimmt, wer einen Inspirationswürfel bekommt. Jeder Spieler hat eine Stimme und kann nicht für sich selbst abstimmen. Die Absolute Mehrheit entscheidet, bei gleichstand entscheidet der Spielleiter.
+Am Ende jeder Session wird von den Spieler abgestimmt, wer einen Inspirationspunkt bekommt. Jeder Spieler hat eine Stimme und kann nicht für sich selbst abstimmen. Die Absolute Mehrheit entscheidet, bei gleichstand entscheidet der Spielleiter.
 
-Für das Verfassen eines Spielprotokolls erhält ein Spieler einen Inspirationswürfel.
+Für das Verfassen eines Spielprotokolls erhält ein Spieler einen Inspirationspunkt.
 
-Wirft ein Spieler eine natürliche 1 auf einen d20-Wurf, dann erhält dieser einen Inspirationswürfel.
+Wirft ein Spieler eine natürliche 1 auf einen von der Spielleitung geforderten d20-Wurf, dann erhält dieser einen Inspirationspunkt.
 
-Weiterhin vergibt der Spielleiter nach eigener Diskretion Inspirationswürfel, um gutes Rollenspiel, Witze oder anderes positives Verhalten im Spiel zu belohnen.
+Weiterhin vergibt der Spielleiter nach eigener Diskretion Inspirationspunkte, um gutes Rollenspiel, Witze oder anderes positives Verhalten im Spiel zu belohnen. Alle Spieler sind dazu angehalten den Spielleiter auf solches Verhalten anderer Spieler hinzuweisen, sodass diese Inspirationspunkte bekommen.
+
+### Inspiration verwenden
+
+Ein Inspirationspunkt kann eingesetzt werden, um einen zusätzlichen Kompetenzwürfel-Bonus auf einen **d20**-Wurfes zu bekommen, auch wenn es sich nicht um eine geübte Fertigkeit handelt. Dies kann vor oder nach dem Verkünden des Ergebnisses für einen eigenen **d20**-Wurf geschehen. Um den Wurf eines anderen Spielers mit einem Kompetenzwürfel-Bonus zu unterstützen, muss dies vor dem Wurf angekündigt werden. Ein Wurf kann durch mehr als einen Kompetenzwürfel unterstützt werden, solange der Spielleiter es nicht verbietet. Dies kann in extremen Stresssituation sein, oder wenn der PC komplett alleine ist. Jeder Spieler kann nur einen Würfel zu einem Wurf beisteuern.
+
+Weiterhin können Spieler zwei Inspirationspunkte ausgeben, um eine Karte aus dem Inspirationsdeck zu ziehen. Diese Karte bleibt bei dem Spieler, der sie gezogen hat, entweder bis sie eingesetzt wird, oder bis zum Ende der Session. Jeder Spieler kann nur im Besitz von maximal einer Inspirationskarte sein. Die Effekte der Karten sind in der Tabelle der _Inspirationskarten_ aufgelistet.
+
+#### Inspirationskarten
+
+| **DoMT Card**                 | **Tarot Card**         | **Effect**                                                                                                                                                                                                                                                                                                                                                     |
+| :---------------------------- | :--------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Balance (or 2 ♠)**          | **Justice**            | Wenn du einer Kreatur Schaden zufügst, gib sofort 1 Trefferwürfel aus, um dich zu heilen. Wirf den Würfel, addiere deinen Konstitutionsmodifikator und erhalte eine Anzahl von Trefferpunkten zurück, die der Gesamtzahl entspricht (mindestens 1).                                                                                                            |
+| **Comet (or 2 ♦)**            | **The Chariot**        | Als Bonusaktion, wähle eine Kreatur als deinen _gewählten Feind_. Diese Kreatur ist verwundbar durch Schaden, den du zufügst, und resistent gegen jeden anderen Schaden. Außerdem hat sie einen Nachteil bei ihren Angriffswürfen gegen jede andere Kreatur als dich. Dieser Effekt endet, wenn eine andere Kreatur als du dem Ziel Schaden zufügt.            |
+| **Donjon (or A ♠)**           | **The Hanged Man**     | Als Aktion wirst du bis zum Ende deines nächsten Zuges in eine leere Halbebene transportiert. Bis zu deiner Rückkehr kannst du nichts auf der Ebene, die du verlassen hast, beeinflussen oder von ihr beeinflusst werden. Du kehrst in dasselbe Feld zurück, das du verlassen hast, oder, wenn dieses Feld besetzt ist, in das nächstgelegene unbesetzte Feld. |
+| **Euryale (or Q ♠)**          | **The High Priestess** | Wenn eine Kreatur einen Rettungswurf macht, hat sie Nachteil bei diesem Rettungswurf.                                                                                                                                                                                                                                                                          |
+| **Fates (or A ♥)**            | **The Magician**       | Wiederhole einen Würfelwurf, den du gerade gemacht hast. Du musst den zweiten Wurf verwenden.                                                                                                                                                                                                                                                                  |
+| **Flames (or Q ♣)**           | **The Devil**          | Wenn du einer Kreatur Schaden zufügst, erleidet diese Kreatur zusätzlich 1d6 Feuerschaden.                                                                                                                                                                                                                                                                     |
+| **Fool (or Joker with)**      | **The Fool**           | Wenn du Schaden nimmst, verursachst du als Reaktion bei der Kreatur, die den Schaden erlitten hat, den Zustand **prone**.                                                                                                                                                                                                                                      |
+| **Gem (or 2 ♥)**              | **The Empress**        | Du kannst eine zusätzliche Aktion in deinem Zug aus ausführen.                                                                                                                                                                                                                                                                                                 |
+| **Jester (or Joker without)** | **Wheel of Fortune**   | Du kannst die **Disengage** Aktion, als Bonuskation in deinem Zug ausführen.                                                                                                                                                                                                                                                                                   |
+| **Key (or Q ♥)**              | **The Lovers**         | Teleportiere dich als Bonusaktion mit allem, was du trägst oder bei dir hast, bis zu 30 Fuß weit an einen Ort, den du sehen kannst.                                                                                                                                                                                                                            |
+| **Knight (or J ♥)**           | **Strength**           | Als Reaktion kannst du einer Kreatur, die du sehen kannst, Nachteil auf ihren Angriffswurf auferlegen.                                                                                                                                                                                                                                                         |
+| **Moon (or Q ♦)**             | **The Moon**           | Als Bonusaktion kannst du einen verbrauchten Zauberslot der 1. Stufe oder eine einmalige Nutzung einer Fähigkeit, die eine begrenzte Anzahl von Malen pro Tag genutzt werden kann, zurückgewinnen.                                                                                                                                                             |
+| **Puzzle (or 2 ♣)**           | **The Hermit**         | Erhalte Vorteil bei einem Rettungswurf.                                                                                                                                                                                                                                                                                                                        |
+| **Rogue (or J ♠)**            | **Judgement**          | Erhalte Vorteil bei einem Angriffswurf.                                                                                                                                                                                                                                                                                                                        |
+| **Ruin (or K ♠)**             | **The World**          | Als Bonusaktion kannst du einer Kreatur, die du sehen kannst, bis zum Ende ihres nächsten Zuges Nachteil bei allen Fähigkeitsprüfungen erzwingen.                                                                                                                                                                                                              |
+| **Sage (or A ♦)**             | **The Hierophant**     | Nimm die Aktion **Help** oder **Search** als Bonusaktion.                                                                                                                                                                                                                                                                                                      |
+| **Skull (or J ♣)**            | **Death**              | Als Aktion kannst du dich mit einem _Leichentuch des Todes_ umgeben. Bis zum Beginn deines nächsten Zuges erleidet jede Kreatur, die ihren Zug im Umkreis von 5 Fuß von dir beendet, 1d6 nekrotischen Schaden.                                                                                                                                                 |
+| **Star (or J ♦)**             | **The Star**           | Erhalte Vorteil bei einem Fertigkeitswurf.                                                                                                                                                                                                                                                                                                                     |
+| **Sun (or K ♦)**              | **The Sun**            | Als Reaktion auf einen Nahkampfangriff einer Kreatur, der dich trifft, erhält diese Kreatur bis zum Ende deines nächsten Zuges den Zustand **blind**.                                                                                                                                                                                                          |
+| **Talons (or A ♣)**           | **Temperance**         | Als Bonusaktion reduzierst du die Geschwindigkeit einer Kreatur im Umkreis von 5 Fuß bis zum Beginn deines nächsten Zuges auf 0.                                                                                                                                                                                                                               |
+| **Throne (or K ♥)**           | **The Emperor**        | Als Reaktion, wenn du Schaden nimmst, erhält die Kreatur, die den Schaden verursacht hat, bis zum Ende ihres nächsten Zuges den Zustand **frightened**. Du bist die Quelle ihrer Angst.                                                                                                                                                                        |
+| **Void (or K ♣)**             | **The Tower**          | Als Reaktion kannst du, wenn du Schaden nimmst, bis zum Beginn deines nächsten Zuges Widerstand gegen diesen Schaden erlangen.                                                                                                                                                                                                                                 |
 
 ## Vorteil und Nachteil
 
