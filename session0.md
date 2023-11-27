@@ -71,3 +71,39 @@ Wenn wenigsten 3 Spieler dabei sind findet die Runden statt. Passiert es, dass w
 Die Liste der Hausregeln findet ihr [hier](./hausregeln.md).
 
 > Update vom 18.10.2023
+
+<!-- <table>
+<tr><th>
+
+Table 1 Heading 1 
+
+| Table 1 | Middle | Table 2 |
+|---------|--------|---------|
+| a       | not b  | and c   |
+
+
+</th><th>
+
+Table 1 Heading 2
+
+| Table 1 | Middle | Table 2 |
+|---------|--------|---------|
+| a       | not b  | and c   |
+
+
+</th></tr>
+<tr><td>
+
+| Table 1 | Middle | Table 2 |
+|---------|--------|---------|
+| a       | not b  | and c   |
+
+</td><td>
+
+| b | 1 | 2 | 3 |
+|---|---|---|---|
+| a | s | d | f |
+
+</td></tr> 
+
+</table> -->
