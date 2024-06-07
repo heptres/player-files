@@ -1,7 +1,8 @@
 <head>
   <link rel="shortcut icon" href="https://media.dndbeyond.com/images/web/favicon.png" />
-  <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 </head>
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 
 # Hausregeln
 
