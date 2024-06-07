@@ -30,7 +30,7 @@ Konzentrations- oder Brennendwürfe sind Ausdauer-10 Rettungswürfe.
 
 ### Springen
 
-Die Sprungdistanz einer Kreatur ist $5 \times$ ihr STR-Modifikator, aber mindestens 5 Fuß.
+Die Sprungdistanz einer Kreatur ist $ˋ\(5 \times)\ˋ$ ihr STR-Modifikator, aber mindestens 5 Fuß.
 
 ## Fertigkeitswürfe
 
