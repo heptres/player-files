@@ -2,9 +2,9 @@
   <link rel="shortcut icon" href="https://media.dndbeyond.com/images/web/favicon.png" />
 </head>
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-
 # Hausregeln
+
+This sentence uses `$` delimiters to show math inline:  $ \sqrt{3x-1}+(1+x)^2 $
 
 ## Verschiedenes
 
